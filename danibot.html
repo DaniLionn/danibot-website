@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DaniBot's Website</title>
+<link rel="icon" type="image/x-icon" href="favicon-32x32.png">
+
+    <h1>DaniBot's Website</h1>
+    <p>Not much here, mostly using this to host files that DaniBot can post.</p>
+    <p>Maybe I'll do something with this in the future.</p>
+    <p>DaniBot is a Discord bot I made, don't know if i'll release her publically though.</p>
+    
+</head>
+
+<body>
+<p>Here's a button you can click, it makes a number go up.</p>
+<script type="text/javascript">
+
+var clicks = 0;
+
+function onClick() {
+  clicks += 1;
+  document.getElementById("clicks").innerHTML = clicks;
+};
+</script>
+
+<button type="button" onClick="onClick()">Click me</button>
+
+<p>Clicks: <a id="clicks">0</a></p>
+
+</body>
+
+</html> 
