@@ -31,6 +31,10 @@ body {
     text-align: center;
   }
 
+  button.hidden {
+    background-color: rgb(29, 29, 29);
+  }
+
 
   hr.dotted {
     border-top: 3px dotted #1a1919;
