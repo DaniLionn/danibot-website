@@ -1,7 +1,16 @@
 body {
     background-color: rgb(29, 29, 29);
+
   }
   
+.customCursor{
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=15599),auto;
+}
+
+.customCursorHover{
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=15605),auto;
+}
+
   h1 {
     color: white;
     text-align: center;
