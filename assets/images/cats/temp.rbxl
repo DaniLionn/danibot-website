@@ -1,0 +1,1019 @@
+<roblox!��
+
+  U   '          SSTR          P     
+ P     INST$   "       �       AnalyticsService     
+�INST           �      AssetService     
+�INST-   O       �   
+   Attachment    �
+INST#   !       �      BindableFunction      INST          �   
+   BodyColors      �INST(   &       �      CSGDictionaryService     
+INST          @    � Camera      �INST          �      Chat     
+INST%   #       �      CollectionService     
+�INST           �	   
+   Configuration      
+�INST(   &       �
+      ContextActionService     
+�INST"           �      CookiesService     
+�INST$   "       �      DataStoreService     @INST          �	
+      Debris     
+�INST(   J       �      Decal   	 �2INST          �      Folder   `  INST    .       �      Frame   
+ p2:INST#   !       �      GamePassService     
+�INST          �      Geometry     
+�INST          �      HttpService     BINST          �
+      Humanoid      �INST          �
+      ImageButton      
+�INST    #       �   
+   ImageLabel   `
+  0BINST!          �   
+   InsertService     
+�INST          �      Instance  `
+ �VINST          �      IntValue        �:INST#   !       �      LanguageService     6INST          �      Lighting     8INST,   L       �      LocalScript 
+  		 �F
+
+
+
+INST'   %       �      LocalizationService     
+�INST"           �      LodDataService     >INST!          �   
+   LuaWebService     2INST#   !       �       MaterialService     
+INST+   F       �!      Model 
+   � �ℚ\
+B�INST#   ,       �"      Motor6D   �     �INST5   3       �$#   !   NonReplicatedCSGDictionaryService     
+INST"           �$      NumberValue        
+ �INST  	      �%      Part C  ��������
+ �
+
+ ! @
+
+= p
+
+: �
+N
+
+>   - @
+~  t  f  { �
+
+� @
+ � �
+
+b � !R �  
+e  q
+  � % A�  �  � � l  � b �
+
+� # 0
+� �
+�  � 0
+
+b A  0
+ @j � �
+
+ �
+
+
+ � �
+�   0� K   00
+
+p
+� L � P
+
+>  � �%Q`
+�  P\  �   �  �  �  � �$>INST&   $       �&      PermissionsService     
+INST"           �'      PhysicsService     
+�INST)   '       �(      PlayerEmulatorService     
+ INST          �
+)      Players     
+INST          �*   
+   PointLight      �INST1   /       � +      ProcessInstancePhysicsService     4INST*   (       �,      ProximityPromptService     DINST*   T       �-      RemoteEvent   
+! $ PINST#   !       �.      ReplicatedFirst     
+INST%   #       �/      ReplicatedStorage     INST          �0   	   ScreenGui      
+.INST    '       �1      Script   �   �(INST!          �2   
+   ScriptService     
+�INST          �3   	   Selection     
+�INST&   %       �4      ServerScript �ice     
+�INST!          �5   
+   ServerStorage     INST          �	6      Sky         :INST�  �      �7      Snap �  �������������
+
+  @  P   4  
+ & �
+  7 
+  	     %   ; n Z  P   m   M  3 Y � %N f g o R
+�    � �   &   A
+T : C � 2
++    �  u  0  m  y �  �   �   d    �  g , M 0"�0b  y x  �  � �  F C Z �  k  �  
+  �# �   t  �: �   ]    z  A N < 	  �    | �  4 � FI  P `    6   j w & � "O  
+ C   2   �    � $ �    8   � !   �    1  
+ �   d g  !i P �    S  9 �  c  D     �      �  n $  / " �    � B    �< <A �I  A�INST,   f       �8      Sound   - c�v �4INST           �9      SoundService     
+INST-   J       �	:   
+   SpawnLocation    ��INST          �
+;      SpecialMesh      �INST*   (       �<      StarterCharacterScripts      
+(INST          �
+=   
+   StarterGui     
+,INST          �>      StarterPack     
+*INST!          �?   
+   StarterPlayer     
+$INST'   %       �@      StarterPlayerScripts      
+&INST          �
+A      StringValue      
+�INST          �
+B   
+   StudioData     
+"INST          �C      Teams     FINST#   !       �D      TeleportService     
+�INST          �	E      Terrain      �INST          �F      TestService     HINST          �	G      TextBox      
+�INST&   /       �H   
+   TextButton   �
+     B:LINST.   R       �I   	   TextLabel   
+
+! � 84
+INST          �	J      Texture      �INST           �K      TimerService     
+INST          �L      Tool      �INST%   #       �M      TouchInputService     
+�INST           �N      TweenService     
+INST*   (       �O      UIAspectRatioConstraint      
+�INST+   M       �P      UICorner   
+ �6"INST          �Q   	   VRService     
+�INST'   %       �R      VirtualInputManager     JINST2   q       � S      Weld   1E �	"
+����n�J
+INST          �T   	   Workspace       PROP          �       ApiKey    PROP"           �       AttributesSerialize    PROP   "       �    	   HistoryId  P     PROP#   !       �       Name   AnalyticsServicePROP           �    
+   SourceAssetId       PROP          �       Tags    PROP#   !       �       UniqueId H0��ƍ�c���V�PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP          �      Name   AssetServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0��ƍ�c���V�PROP(   T       �      AttributesSerialize  P     PROPb   �       �      CFrame   4   �  ~~   H  334 
+  44 0 A   ~  9~  9  �5         PROP   �       �   	   HistoryId  �P     PROP�   L      �      Name
+   HatAttachment &ir �   FaceFron)  WCente/ �   LeftShould �   Righ   M [Waiste  f  � 1 FBack�  0 c WColla�  � (Ne+  s  � *  Z KBody�  p PhmentPROP&   �       �   
+   SourceAssetId  N PPROP   E       �      Tags  P     PROP`   �       �      UniqueId  � � �������������� �  � � �  � 9  � t PtttttPROP          �       Visible �           PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP'   %       �      Name   ReturnPlacePublicityPROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId  8a��i.o�/Q�6PROP"           �      AttributesSerialize    PROP!          �   
+   HeadColor3~���~���|���PROP   "       �   	   HistoryId  P     PROP$   "       �   
+   LeftArmColor3~���~���|���PROP$   "       �   
+   LeftLegColor3~IIJ~{{|}PROP          @    �Name   Body ColorsPROP%   #       �      RightArmColor3~���~���|���PROP%   #       �      RightLegColor3~IIJ~{{|}PROP           �   
+   SourceAssetId       PROP          @    �Tags    PROP"           �      TorsoColor3z���}���~YYZPROP#   !       �      UniqueId  ����ʴ�9�tPROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP'   %       �      Name   CSGDictionaryServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0\�ƍ�c���V�PROP"           �      AttributesSerialize    PROPA   @       @    �)CFrame ��j?�v=)7ɾ �1L}?_>��> G�/0h?�[y��'V��[zPROP          �   
+   CameraSubject   PROP          �   
+   CameraType    PROP          �	      FieldOfView�  PROP          �
+      FieldOfViewMode    PROP          �      Focus�XT;��N܊�!nPROP          �   
+   HeadLockedPROP          �   	   HeadScale   PROP   "       �   	   HistoryId  P     PROP          �      Name   CameraPROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H1��ƍ�c���V�PROP"           �      AttributesSerialize    PROP          �      BubbleChatEnabledPROP   "       �   	   HistoryId  P     PROP          �
+      LoadDefaultChatPROP          �      Name   ChatPROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0a�ƍ�c���V�PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP$   "       �      Name   CollectionServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP"   !       @    �
+UniqueId H0�ƍ�c���V�PROP"           �	      AttributesSerialize    PROP   "       @	    �HistoryId  P     PROP          �
+	      Name   SettingsPROP           �	   
+   SourceAssetId       PROP          �	      Tags    PROP#   !       �	      UniqueId  ��Ӝ}ʩ�m�NjPROP"           �
+      AttributesSerialize    PROP   "       �
+   	   HistoryId  P     PROP'   %       �
+      Name   ContextActionServicePROP           �
+   
+   SourceAssetId       PROP          �
+      Tags    PROP#   !       �
+      UniqueId H0��ƍ�c���V�PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP!          �      Name   CookiesServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0��ƍ�c���V�PROP"           �      AttributesSerialize    PROP          �	      AutomaticRetryPROP   "       �   	   HistoryId  P     PROP          �
+      LegacyNamingScheme PROP#   !       �      Name   DataStoreServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H1��ƍ�c���V�PROP"           �
+      AttributesSerialize    PROP   "       �
+   	   HistoryId  P     PROP          �
+      MaxItems  �PROP          �
+      Name   DebrisPROP          @
+    �SourceAssetId       PROP          �
+      Tags    PROP#   !       �
+      UniqueId H0��ƍ�c���V�PROP(   T       �      AttributesSerialize  P     PROP+   �       �      Color3   	7 7 8 !P     PROP!   E       �      Face  �PROP   �       �   	   HistoryId  U F   � F    F   � F    F   � F   � F   � F    F   � F   9 F    F   � �   tttttttttttPROP2   �       �      Name	 �face   roblox   Decal	 KPDecalPROP&   �       �   
+   SourceAssetId  N PPROP   E       �      Tags  P     PROPr   -      �9      Texture)   http://www.roblox.com/asset/?id=144080495    %   rbx B://tH �s/SpawnLocation.png) ��Pn.pngPROP!   M       �      Transparency  P     PROPh   �       �      UniqueId  ���UUVVVVW � ���Xþ�:;9 �  � � �  � 9  � t PtttttPROP   G       �      ZIndex   PPROP*   (       �      AttributesSerialize            PROP   B       �   	   HistoryId  P     PROPH   G       �*      Name   VirusDestroyerPluginAssets
+   Quarentine �MainAssetsPROP!   .       �   
+   SourceAssetId  P  PROP          �
+      Tags            PROPB   A       �      UniqueId  �---������nnnUUU///"""������������PROP          �      Active       PROP*   L       �      AnchorPoint
+~ ~ ~~   P     PROP(   8       �      AttributesSerialize  P     PROP          �
+      AutoLocalizePROP"   2       �   
+   AutomaticSize  P     PROP/   m       @    �
+BackgroundColor3     P     PROP1   ;       �      BackgroundTransparency~ ~  ~~  P     PROP>   i       �      BorderColor3{ � � | Q R  )|� p�������PROP   /       �   
+   BorderMode  P     PROP$   4       �
+      BorderSizePixel  P     PROP!           @    �	ClipsDescendants       PROP          �
+   	   Draggable       PROP]   �       �   	   HistoryId  = ! , !  ! � ! s ! �  H  K � ! ' !   � � �  �   �  � PROP    0       �      LayoutOrder  P     PROP`   ^       �      Name   Contents   Buttons �'Settings   Slider
+   transition	   PlaceList   DebugPROP(   6       �      NextSelectionDown  p      PROP(   6       �      NextSelectionLeft  p      PROP)   7       �
+      NextSelectionRight  p      PROP&   4       �
+      NextSelectionUp  p      PROPV   �       �<      Position}~|~x�,`3 �%i��3 �∸�4 �(}}~}}}�A� ��J��| � � L>   P     PROP,   :       �      RootLocalizationTable  p      PROP   -       �      Rotation  P     PROP          �   
+   Selectable       PROP*   :       �      SelectionBehaviorDown  P     PROP*   :       �      SelectionBehaviorLeft  P     PROP+   ;       �      SelectionBehaviorRight  P     PROP(   8       �      SelectionBehaviorUp  P     PROP           �      SelectionGroup       PROP+   9       �      SelectionImageObject  p      PROP#   3       �	      SelectionOrder  P     PROPR   }       �8      Size}}~~�}|h=YkiV�m'�|���2�B~}}{|}�7�!�K�Q�ɝ�0�V0�p��   P     PROP#   3       �	      SizeConstraint  P     PROP0   N       �   
+   SourceAssetId  � � �   dPROP   *       �       Style  P     PROP   )       �      Tags  P     PROPx   �       �      UniqueId  � =J��ѵA,A���\  � �9�ss��������		}}}�i����ʴ.''���o��û���mmm9/�����Q��NNN�Ӵ�jjjt6PROP          �      Visible  PROP   +       �      ZIndex  p(PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP"           �      Name   GamePassServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0��ƍ�c���V�PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP          �
+      Name   GeometryPROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0��ƍ�c���V�PROP!           @    �	AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP          �      HttpEnabledPROP          �
+      Name   HttpServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H1��ƍ�c���V�PROP"           �      AttributesSerialize    PROP          �
+      AutoJumpEnabledPROP          �   
+   AutoRotatePROP#   !       �      AutomaticScalingEnabledPROP          �
+      BreakJointsOnDeathPROP          �   
+   CollisionType    PROP"           �      DisplayDistanceType    PROP          �	      DisplayName    PROP          @    �EvaluateStateMachinePROP$   "       �      HealthDisplayDistance��  PROP           �      HealthDisplayType    PROP          �   
+   Health_XML��  PROP          �   	   HipHeight    PROP   "       �   	   HistoryId  P     PROP(   &       �      InternalBodyScale         PROP           �      InternalHeadScale   PROP          �   
+   JumpHeight����PROP          �   	   JumpPower��  PROP          �   	   MaxHealth��  PROP          �   
+   MaxSlopeAngle�d  PROP          �
+      Name   HumanoidPROP"           �      NameDisplayDistance��  PROP          �   
+   NameOcclusion   PROP          �      RequiresNeckPROP          �      RigType    PROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId  ����ʴ�9�tPROP          �      UseJumpPowerPROP          �   	   WalkSpeed�   PROP          �      Active PROP          �
+      AnchorPoint
+        PROP"           �      AttributesSerialize    PROP          �
+      AutoButtonColor PROP          �      AutoLocalizePROP          �   
+   AutomaticSize    PROP'   %       �      BackgroundColor3z���~���~���PROP%   #       �      BackgroundTransparency   PROP#   !       �      BorderColor3{���|QQR|���PROP          �   
+   BorderMode    PROP          �
+      BorderSizePixel    PROP          �      ClipsDescendants PROP          �   	   Draggable PROP   "       �   	   HistoryId  P     PROP          �   
+   HoverImage    PROP+   )       �      Image   rbxassetid://2143456860PROP"           �      ImageColor3         PROP"           �      ImageRectOffset
+        PROP           �   
+   ImageRectSize
+        PROP           �      ImageTransparency    PROP          �	      LayoutOrder    PROP          �       Modal PROP          �      Name   PointPROP           �      NextSelectionDown   PROP           �      NextSelectionLeft   PROP!          �      NextSelectionRight   PROP          �
+      NextSelectionUp   PROP#   !       �      Positionw	~�m�        PROP          �
+      PressedImage    PROP          �
+      ResampleMode    PROP#   "       @    �RootLocalizationTable   PROP          �      Rotation    PROP          �   	   ScaleType   PROP          �   
+   SelectablePROP          �      Selected PROP#   "       @    �SelectionBehaviorDown    PROP#   "       @    �SelectionBehaviorLeft    PROP%   #       �      SelectionBehaviorRight    PROP"           �      SelectionBehaviorUp    PROP          �	      SelectionGroup PROP#   !       �      SelectionImageObject   PROP          �      SelectionOrder    PROP          �      Size{C�b�m��        PROP          �      SizeConstraint    PROP   $       �      SliceCenter  P     PROP          �   
+   SliceScale   PROP           �   
+   SourceAssetId       PROP          �      Style    PROP          �      Tags    PROP"   !       �      TileSize    �        PROP#   !       �      UniqueId  ̪Ӝ}ʩ�m�NjPROP          �      VisiblePROP          �      ZIndex   PROP          �      Active   PROP'   ,       �	      AnchorPoint
+  ~  �~         PROP*   (       �      AttributesSerialize            PROP          �	      AutoLocalizePROP$   "       �   
+   AutomaticSize            PROP+   =       �      BackgroundColor3    P     PROP,   +       @    �BackgroundTransparency           PROP8   9       �
+      BorderColor3{{{� q���|||Q � RRR|||���������PROP!          �   
+   BorderMode            PROP&   $       �      BorderSizePixel          PROP          �
+      ClipsDescendants   PROP          �   	   Draggable   PROP   B       �   	   HistoryId  P     PROP>   I       �       Image   rbxassetid://12156550040      �5614655568PROP&   8       �	      ImageColor3    P     PROP#   0       �
+      ImageRectOffset
+  P     PROP"   .       �   
+   ImageRectSize  P     PROP(   &       �      ImageTransparency            PROP"           �      LayoutOrder            PROP,   *       �      Name   bg   GameIcon   LoadingPROP(   &       �      NextSelectionDown           PROP(   &       �      NextSelectionLeft           PROP)   '       �      NextSelectionRight           PROP&   $       �      NextSelectionUp           PROP4   A       �      Position z~ �w �> ، {~ �� �� ܤ  P     PROP#   !       �      ResampleMode            PROP,   *       �      RootLocalizationTable           PROP          �      Rotation            PROP           �   	   ScaleType           PROP          �   
+   Selectable   PROP,   *       �      SelectionBehaviorDown            PROP,   *       �      SelectionBehaviorLeft            PROP,   +       @    �SelectionBehaviorRight            PROP*   (       �      SelectionBehaviorUp            PROP          �      SelectionGroup   PROP+   )       �      SelectionImageObject           PROP%   #       �      SelectionOrder            PROP/   =       �
+      Size}| �� �I Tb �� [O ��  P     PROP%   #       �      SizeConstraint            PROP    D       �      SliceCenter  P     PROP!          �   
+   SliceScale         PROP!   .       �   
+   SourceAssetId  P  PROP          �
+      Tags            PROP&   A       �      TileSize     P     PROPB   A       �      UniqueId  �GH��2���ss���		}���''����m�����N��jPROP          �      Visible PROP          �      ZIndex         PROP"   !       @    �
+AllowClientInsertModels PROP!          �      AllowInsertFreeModels PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP           �      Name
+   InsertServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0��ƍ�c���V�PROP&   $       �      AttributesSerialize        PROP   2       �   	   HistoryId  P     PROP,   7       �      Name   FilteredSelection PctionPROP!   &       �   
+   SourceAssetId  P   PROP          �      Tags        PROP3   1       �"      UniqueId    /+�����ii..oo��//QQ��66PROPA   ?       �0      AttributesSerialize         PlayerUpdating        PROP   2       �   	   HistoryId  P     PROP7   5       �&      Name
+   CurrentGameId   TotalVirusesScannedPROP!   &       �   
+   SourceAssetId  P   PROP          �      Tags        PROP3   1       �"      UniqueId    �-ǭ�ҜnU}/�"���m��N�j�PROP          �       Value  �. � � � � PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP"           �      Name   LanguageServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H1��ƍ�c���V�PROP          �
+      Ambient            PROP>   <       �-      AttributesSerialize         UseCurrentLighting PROP          �   
+   Brightness��  PROP(   &       �      ColorShift_Bottom            PROP%   #       �      ColorShift_Top            PROP&   $       �      EnvironmentDiffuseScale   PROP'   %       �      EnvironmentSpecularScale   PROP#   !       �      ExposureCompensation    PROP          �      FogColor~���~���~���PROP          �      FogEnd��� PROP          �      FogStart    PROP!          �      GeographicLatitude    PROP          �   
+   GlobalShadowsPROP   "       �   	   HistoryId  P     PROP          �
+      Name   LightingPROP%   #       �      OutdoorAmbient}}}PROP          �      Outlines PROP          �      ShadowSoftness|���PROP           �   
+   SourceAssetId       PROP          �      Tags    PROP          �   
+   Technology   PROP           �   	   TimeOfDay   14:30:00PROP#   !       �      UniqueId H0��ƍ�c���V�PROP(   P       �      AttributesSerialize  P     PROP          �      Disabled  �       PROP   �       �   	   HistoryId  �P     PROP!   I       �      LinkedSource  P     PROP~   �       �
+      Name   ClickSounds  6 @Main& �
+LocalScript
+   SliderManager    d �   DarkMode m �	   Put Me In StarterGuiPROP   G       �   
+   RunContext  P     PROP  5      �.   
+   ScriptGuid&   {4597C66B-200B-40B2-A874-E5746C732598}* �0094F3EE-BE5F-4B34-A70B-EAB39C09770B* �4EF47CF9-C97E-449A-BA94-93E72A19A303* �297E5ADF-182C-4447-9852-8ACA877BD5BT �BB3FEF9C-1AA3-4669-AD4E-F853B527C83T �09D27CFD-7655-44A8-BFDC-9899A73399FE~ � A368067E-387A-4� �BBD8-D79AC49A950* �7EA56309-70A2-4F9B-B515-2DBFFF5FF0DAT �41236CA7-AE37-41FF-9544-755057AA675C* �8D82DBC0-579F-45CE-A9T �32D9417AD76* �03032410-4529-48T �89-8D50711B7EFT �EA1D878-E00D-4AE8-B22F-E02114EBC61� �9A4DF54B-F28* �FE-BBE3-BEED8E4C3E8E}PROP�  [)      �!      SourceT  local hoverSounds = {script.H I01,  2 23}
+E QclickE $ =3 C #
+
+A �Parent.MouseEnter:Connect(function()
+	� �[math.random(# �)]:Play()
+end)a qButton1� h � L 	�TouchTapC X���$dL Y�er = game. 's. $
+
+�� checkForFriends()
+
+	for i, plr in pairs(K C:GetV �()) do
+		if0 3:IsI WWith(s �.UserId) then
+			return true
+		end
+ 
+ Pfalse!
+
+| �!ReplicatedStorage.DisplayPlaceInfo.OnClientEvent��info, id)
+	��Loading.Visible =} ' �s' � 
+M �GameIcon.ImagL �/"http://www.roblox.com/Thumbs/Asset.ashx?Width=768&Height=432&  �ID="..idl � N�pText = �  [" � "].."<br />ID: ? #
+	� reJ2 ".C   pdateTim� 0strrsplit(c) �, "T")
+	table.insert(4 ,3  �[2], ".")[1])
+	prin L gremoveL  2)� !if� 2.Dem�ion ~= ""O �' !By .� 0or..,2'--B "--   I > ! = X Ped onk � 1�9 at 2 pUTC"
+	e�� XGNo dOQavail��  � &$ndlCshowB/ =v �,  f�P #s._ 
+�S5 � ��&�reshuffle��R$ �:FireServer�I �teleportAlonM 	!Go" K � �  Go�( S  � �/^AddedC)����  Rt?ing� #
+	2� � 	,  
+�Y�
+�7 �� C
+`�� r�). E 
+k< = �~ 	1� E 
+~ < � v�� H * �  � ! )r��SearchStarted�
+����r _Resetj �@"foo�n"% 	
+# 
+��"Looking �
+p�	=...7 ��	�� 
+<
+@MessK
+:
+ � O � �   while wait(�
+:if G
+��@Rota0S -= 57��! t== -360G ' # 0�/
+� 
+) ���	  --Settingss � ( �min, max( 3 �.Min.Value, "ax ` �val = min
+ Aslid�	�  Ppointc %  .P !
+
+  V �	��Workspace.NumberRange& #ue2 APosiw"= C  �+ UDim2.new(val/max,0 )�  m� l 0�� m# =0  -
+[(��  Ch� t 0v)
+^
+w�  ] �Attribute("� @Upda� ")$� �
+C� <	4 ->� ?
+JX	ainFram		!((?R.X)>=�.Absolute~ u.X and ) ?<=(* + qSize.X)v
+� @canSf K	� Qlmb1do rSelecte �  O�clastMX} � 
+
+Qice("4npu  ") M. E �F().X�� C� � oMove:cu  $� �	h�
+qincremeJ1  po/� _w.Scale/( y� z& Y& L 0cur� +� � TDelta�  �
+�termine to� `ase/de�Ase v�	�� <� w
+U 0-1  
+  1 � D 1�Babs(L -] �)*(10*.00039) --DONT TOUCH THIS (This is�  ce0F  � �). !! Tweak t, �f only you s� �c whole  f20 !!z
+�
+�	�1 *{ \ � �K 
+Q--Fix� put of boParies�  Ros < �� /' =�  WAy,0)�8 0> 1� 8 
+18  ^"		� �{   (�clare Val p�(pos)*max  if.  <�w % 4min�   >�;   
+x} {F&Pfloor@`+min+1�+1 always;�no zero wanq � ��char headBtest ��Character.Humanoid.Head��1 = x A7)*.���	�$(ed
+0val	  ��
+�� ���� t: <
+-=		h �Z ?Lea�Z �	tZ *
+_1DownC� � � *.8 u /Ups 
+�  w
+t 7 u
+
+
+y  [1clot
+0
+d:Tween�(�00.5�.3,0), Enum.EasingDire�i.InOut �Style.Linear, 0.5
+� @open�	�	� /-1� 1�� )n � 9   4�G$�%db�l	0gui�${}�	l8� modeBG = Color3�c1,1,1)7 & <(  ��OdarkN �0.180392�
+ e < d � 
+�Fi, ve	'�}
+ +
+ teendantx �`:IsA("h �T") or `	  ) YLabel � �	� l , � "  �
+�  �� RguiElr
+D1uis4�
+# �  � �"� !s"z( ! Btran�
+	( `Backgr��% =� #BG'� GU   	' �% �
+t  s) pStrokeT� `parench0* `�
+�*d@rbxaJ�id://12156550227"
+	7
+K  � � = "✔"��"��� �Yu  > �w  �1* ����� � ��=040 �  1 <✖�@swap�0if � � �
+ � � # 	?�SaveTheme@
+�"DarkMode" Z
+ U /V &L�W 0
+�1oad� (� #d:}4  � � � 
+� � �  �  5�
+�% ^
+% c� Z �� v�GK�sendIDTo���ID = tonl� �1Box�$ID�fAPick
+(IDa/ID�"	� �
+/ $�~	 "�!$pl�!!, � C1 o�!
+�  �
+! 
+FK��# P�[ 
+�� :WaitForChild("Debug")��0(na� 0id1 "2,C!�or, alloweV"[  �  � � ��Accepted � _: Yes
+ % 6   No5   I 8	6    " � 5 I� 3 I"10 �UniverseIDf  6 26 3  �  �0tor�4)a �OrGuia ' F')
+
+ �:SetCore("���Callback",false)PROP/   ~       �   
+   SourceAssetId  ,�@ �
+ #� P>PROP   A       �      Tags  P     PROP�   �       �      UniqueId  �yryL���{���HS�����,����[o �-������������s����������������	}}}����iʴ����� �B�.�'���o�����û����999�mmm9999/9����Q����NNN������ttt�jjjtttt6tPROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP&   $       �      Name   LocalizationServicePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0y�ƍ�c���V�PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP          �
+      Name   InstancePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0��ƍ�c���V�PROP"           �      AttributesSerialize    PROP   "       �   	   HistoryId  P     PROP          �
+      Name   InstancePROP           �   
+   SourceAssetId       PROP          �      Tags    PROP#   !       �      UniqueId H0��ƍ�c���V�PROP!          �       AsphaltName   AsphaltPROP"           �       AttributesSerialize    PROP          �    
+   BasaltName   BasaltPROP          �    	   BrickName   BrickPROP#   '       �
+       CobblestoneName PstonePROP#   !       �       ConcreteName   ConcretePROP%   +       �       CorrodedMetalName
+ PMetalPROP#   '       �
+       CrackedLavaName PdLavaPROP$   )       �       DiamondPlateName PPlatePROP          �    
+   FabricName   FabricPROP          �
+       FoilName   FoilPROP!          �       GlacierName   GlacierPROP!          �       GraniteName   GranitePROP          �    	   GrassName   GrassPROP          �    
+   GroundName   GroundPROP   "       �    	   HistoryId  P     PROP          �       IceName   IcePROP"   %       �	       LeafyGrassName
+ PGrassPROP!   #       �    
+   LimestoneName	 PstonePROP          �    
+   MarbleName   MarblePROP          �    	   MetalName   MetalPROP          �       MudName   MudPROP"           �       Name   MaterialServicePROP#   !       �       PavementName   PavementPROP          �    
+   PebbleName   PebblePROP!          �       PlasticName   PlasticPROP          �
+       RockName   RockPROP          �
+       SaltName   SaltPROP          �
+       SandName   SandPROP!   #       �    
+   SandstoneName	 PstonePROP          �    	   SlateName   SlatePROP%   +       �       SmoothPlasticName
+ PasticPROP          �
+       SnowName   SnowPROP           �    
+   SourceAssetId       PROP          �       Tags    PROP#   !       �       UniqueId H0k�ƍ�c���V�PROP          �       Use2022MaterialsXmlPROP          �
+       WoodName   WoodPROP"   %       �	       WoodPlanksName
+ PlanksPROP(   P       �!      AttributesSerialize  P     PROP   �       �!   	   HistoryId  �P     PROP"   J       �!   
+   LevelOfDetail  P     PROP(   �       �
+!      ModelMeshCFrame   �P     PROP"   J       �!   
+   ModelMeshData  P     PROP"   �       �!   
+   ModelMeshSize  �P     PROP'   O       �!      ModelStreaming    P     PROPV   �       �!      Name
+   Classic House   	 �
+   FirstFloor _Model	 # p PRoofo �himney    PROP'   )       �!      NeedsPivotMigration  P     PROP4   H       �!      PrimaryPart  �	      
+��挖XRf4PROP$   H       �!      ScaleFactor   P     PROPA   ~       �!   
+   SourceAssetId  &( 6,v
+ 7�
+ &�k
+ ��X~PROP   A       �!      Tags  P     PROPg   �       �!      UniqueId  � ���������"�����]�� �  � � �  � 9  � t PtttttPROPD  �      �!      WorldPivotData   �?M@�%NR�M@5 ��80�=oR0�80 % �J 0 J S5=oR�J �J � P�  ���  J R  g %  �  5  w 0%  � J 0 �  � w � B � 	E%     `�?�f  0�?� @���� ����|,|,�궼
+ �
+
+
+
+
+������o�mm��ۥ���� c����� �33������ �3�3�ܸ|l�x �|� �����������������[k++k;;��hD 3 PPROP'   4       �"      AttributesSerialize  P     PROP2   Y       �"      C0     { ~~  
+ P     PROP6   Y       �"      C1   ~~   W~~~      P     PROP    -       �"      DesiredAngle  P     PROP          �"      EnabledPROP   r       �"   	   HistoryId  GP     PROP$   ,       �"      MaxVelocity{ � `������PROPR   ^       �"      Name	   RootJoint
+ �ight Shoulder  1Hip5 �eck
+   Lef& �   Left HipPROP    &       � "      Part0  �     �    PROP    &       � "      Part1  �     �PROP#   F       �"   
+   SourceAssetId  `PROP   %       �"      Tags  P     PROPU   q       �"      UniqueId  � q������ �  � � �  � 9  �������ttttttPROP"           �#      AttributesSerialize    PROP   "       �#   	   HistoryId  P     PROP3   2       �#      Name!	 �onReplicatedCSGDictionaryServicePROP           �#   
+   SourceAssetId       PROP          �#      Tags    PROP#   !       �#      UniqueId H0[�ƍ�c���V�PROP&   $       �$      AttributesSerialize        PROP   2       �$   	   HistoryId  P     PROP          �$      Name   Min   MaxPROP!   &       �$   
+   SourceAssetId  P   PROP          �$      Tags        PROP3   1       �"$      UniqueId    �����Ӝ�}}�ʩ���mm��NNjjPROP          �$      Value	 �  h�@ ����mBPROP#   T      �%      Anchored ��(�       PROP0   (	      �%      AttributesSerialize  ���������P     PROP1   	      �%   
+   BackParamA~ ��1  ����v ��,PPROP,   	      �%   
+   BackParamB~ ��1  �������P     PROP(    	      �%      BackSurface  ���������P     PROP-   %	      �%      BackSurfaceInput  ���������P     PROP3   !	      �%      BottomParamA~ ��1  ����v ��,PPROP.   !	      �%      BottomParamB~ ��1  �������P     PROP2   "	      �%   
+   BottomSurface  ������� ��)�     PROP0   '	      �%      BottomSurfaceInput  ���������P     PROPa  �n      �%      CFrame   �?M@�%NR�M@5 ��80�=oR0�80 P %NR0%   - �%  -  J �% - @=oR�% O  ��J 8 O o % J :o % \� #� #  �   � � �% \�� � �# �  � R  �     	� x% � � � u7� 7J �r4��UP&� ?7% o % (:{4� � �\o 7� \o ���J % 7� % � \o xV+�\� % �7J 4M�� % P:4u���o 4� �� % � �% :	% �% J % 7� % � 7J � 7J % ��\�:P4(_� % �\� 7J % �r7� 4���
+J �J � % ����%3�7����?���5%3�����Ag�����������% �nY�5��6�Y�% �+7J 7u4�� � J % �� % � \� % �S7V�� J �+�% 7��� 7J :�7J ��J � % � % ~� % {��xJ �J 7o % \� �J P% +r(�J \o % (\o % \(% 7� \o �r7J 4�47J ����7+� 7:� \� � % 7�:� w� J % �rY4o 7J % P(4� o ��% \� \o ��% x�	�J % 7� % � �� 7J % (J 7o % Y��� M% \� % � J % �M% �`���� 4Y:M� % �M�� % ����	7(7� 7J ����:xo % 7�:� o ����7J ��� J % o % o Bo 7J % �M� J % 7� % � J % o % ��� �"�!7J �M� �!MJ � � 7(\� % ���% 7�7 J   `�?�f      % �?� �   0��� $��     �    /  !   
+ 1 +  x d    
+ z   %   - ! 	 A B /  ��  D 0   :  # 
+  L     + =       �  f 2  -   	  =   )     �  '    8           , *  � ��~�~��������̾�~ ���ؠ���������β����~~~~~�   | ����������~ ���~� �~ �~���#++ + A,++1 2~+'  i �##$> ,0 r~~~$++� �~���+�������������+'��8 ��- ���������Ⱦ̴����������������$  �g#+&'&'#'�����������ƾξ�������#���������'�#����������+�����#'��+������������P �m�#ޞ��+'���������~�������#'�������~��~�����������������+������~�~�������'������+���##'�����i ¦����������� ������꼼¾��� t
+    0
+ $         /  !   
+ 1 +  x d    
+ z   %   - ! 	 A B /  
+�  D 0   :  # 
+  L     + =       �  f 2  -   	  =   )     �  '    8           , *  � � ���������������������������������������� `o��o�� !�� P����� �o��o��o�m����oom �
+�k��m������koom�m�ooqqmm���o
+ �qoomoqommomm �ooomm������mm�������� `������! qmomokkq Pmoqmo: ����m���ooq�m �����o�������������om��i o m� �y ob  ���   ��  �o q�o���oqQ   :  �qu�m�o�o�B �o�������o�o�P ���qo�q����َ 0o�q @qq�� � ��qo�oq�oq�� �qqo�qqoq������:  �� @�q��  " 1qq�"  `������!   S Q�����  
+ ��������oqa `qoqq��   ��q����q�q ��q���qoo�ooo��* Pq���� Q����� ����������@ 2�٥ � q��������� �
+ � 	  � 
+  . 6 @����   6 4���0 @����*  ��V     I   .  "  ;  �  f i F R�����!  �D 0���i  	  | �  
+  . �v   7  &   [     5  9  �  2   ��������      � 2���5       G  9 K ; ' 
+  !   S 	 @ W  b �   4   B !���Ё����PP��l �)))l� ��ll  )))P � vPPP)))). ��l ��lP��l PP)�l I ! P0 ) �3��� I  F Q))�h P #�d     � @�3�l�  �3H � ��)ll�  P�llll�l| 1)�. �  � V�  �T pPl    � 	j   � g 9  � 1ll  �Y�����)  ���� )v���vvv�Ü���vv)�<l)�� <�< �33�3� l���� )��3��)l������̓�� P �, �)v<��)l��3�̦�๹���l�l��)��� �<3�)���l��l������� �t�̦l� ����l�l���������ùlv̜v���lv���vv�vvl�vhvhvTTTAAhA...hAT.v����3c33�3�3 fgg  �  ��  ��͙��3͚ 333����  ����g   !��* . `�3� �3  g� ` �3��  2  /   p�3  � 3H  H gF ���33�333�2 � � A ���    J � �  3��3͚ 8lI � �g���3�  3 g*  ��e 1��3. @ ���w �ffff  �3�i   0� �H  3�   A    �    8 �fgggff�33����  A̙3= �f�  3f� 3͙3� f�3f3�3f͙f�3�3fff33���3ff� � 4�  ( P3f333w�f 3f �3 3��f�3��3 C p ��3 � P �  3�ff�ff3���  3( ̆  f3[36 � � � �33�f33 @� �� 3  P3 3�f? �f33  �f̙�  33�33��f��f����� �ff3ff� f q��͙� ��  � @ ��fq ���G�3 5333g3g3 g��RF������V|���t.���x^`������^^H08�и��Z>2������x�� �l�N~J�Z�|P�Ln�P>�n4l���(v�@���6>��h,v������|�BPTD8`�`h������px xvn� RR�RR����2.���~�$6��8~��.NxhTx~�.X�Pr�0TPTD>��>hx( P�Hz"~rd.0>&�0�<:�6l`ª�$>8����pZ�X�R\�\T��$�PL$X�@�T��t|�(�~�. D$PBĬ��&,*����� @���^R��� ��,,2v��T8��d�N@`�<6x �|.B�v�f$j� ��&t~���n�0H0����Z$� �LR$�j X�|�Ƅ�~F"0R�Xx�H�rDx�
+��`��6�`|.��HF�D
+b�`@jܠ���h��88ph�
+��*��<�XFl� ��Z0�8�8�fx�~X.L��:��:�4�n`��4X�^,`^��
+�6(�VH"���d���td~�<(vl����������f�|X���.�0�D���:ޘ��jXh$.h4�����~�0@�������l���� ��,; �� �  ���������� y�������/ b������2 B����    ������������������0 P����� !�� ���������� � 2���W �������������  � ����������������������   �� 8��� 9���   ��� J����R �� 
+1@����  �  `������G0���)  F P������+q������� ������������3�����������������N 0����  ���������������  ' � 2���	  �  *   � 	 �   t �k�[�k �[k�k����  �+�[�kkk�+�ۻk���k����# Rk+;+; ��kk��k��ۻ�� � �B  k� �!k�[�;ۻ{˻�+�{���++��k+�+k�k[k��{+�ۻ˻+[kKF Y �i ��k�����k�������k��+�;��k�+  �k @�{��  a;;�+[�o ;   �� W��k�+V 1;+�� rk�k�k�k �kkkKkK�ˋkK   �Kk�kK��ˋ# �kk��kk�k( � �K�ˋ�K��K���<   G ����KK�KkKK�KKˋ��ˋ�K�KkN �kK��K�KK�+�K KF @�+++  A�K 2�+	  !   0 ' �  ���+���k+�+��@���� 2+�h ? .D �#�6� zPROP$   V      �%   
+   CanCollide ��)�     PROP   T      �%      CanQuery ��,PPROP   T      �%      CanTouch ��,PPROP!   V      �%   
+   CastShadow ��,PPROPE   �      �%      CollisionGroup   Default �������������������������PfaultPROP-   %	      �%      CollisionGroupId  ���������P     PROPh  �      �%      Color3uint8� @���� 
+  . G iI   n  P c  1��c 4��c$   7   c� @���� @����+   �       7 >      
+  ^ � 2 �     �  � 0ĕ�    �(������
+[K� @____ 
+  . G @I   �  P _       	  7   _� @((�( @���(+   (       7 >      
+  ^ � 2 �     (  � 0(y�    �͢ͽͽi[�� @5555 
+  . G (I   �  P b  1��b 4��b$   7   b� @� @���+          7 >      
+  ^ � 2 �       � 0w�    �G0�0G0G�[KPROP/   d      �%      CustomPhysicalProperties  ��,P     PROP2    	      �%      FrontParamA~ ��1  ����v ��,PPROP-    	      �%      FrontParamB~ ��1  �������P     PROP)   !	      �%      FrontSurface  ���������P     PROP.   &	      �%      FrontSurfaceInput  ���������P     PROP�   B$      �%   	   HistoryId  ������/�����0/QC��0/C��0/��C��0/C��0/��C��0/��C��0/��C��0/C��0/��C��0/99C��0/C��0/��C��0/ttC�P     PROP;   	      �%   
+   LeftParamA~ ��) ;O ~~  ����v ��)�  PROP3   	      �%   
+   LeftParamB~ ��) ;O ~~  �������P     PROP\    	      �%      LeftSurface  �������O �. K 
+ 
+ P     
+ 7   �P    PROP-   %	      �%      LeftSurfaceInput  ���������P     PROP   R      �%      Locked  ��,P    PROP   T      �%      Massless  ��,P     PROP.   	      �%      Material  ����v ��1���-P     PROP4   .	      �	%      MaterialVariantS
+ oized  ���������P     PROP�   u1      �%      Name   Smooth Block Model ������������������������������������������������� 1�Head   HumanoidRootPart   Left Arm �Leg	   Righ 
+ �Leg   Torso �Baseplate   PartPROPB   {      �%      PivotOffset ��1  ���������������������������&P     PROP(    	      �%      Reflectance  ���������P     PROP<    	      �%      RightParamA~ ��) ;O ~~  ����v ��)�  PROP4    	      �%      RightParamB~ ��) ;O ~~  �������P     PROP)   !	      �%      RightSurface  ���������P    PROP.   &	      �%      RightSurfaceInput  ���������P     PROP)   !	      �%      RootPriority  ���������P     PROP;   8      �%      RotVelocity  ���������������������������&P     PROPC   .      �%   
+   SourceAssetId  �����������E	N��1@C��1/Y ��,PZPROP    	      �%      Tags  ���������P     PROP0   	      �%   	   TopParamA~ ��1  ����v ��,PPROP+   	      �%   	   TopParamB~ ��1  �������P     PROP0   	      �%   
+   TopSurface  ������� ��(�   PROP,   $	      �
+%      TopSurfaceInput  ���������P     PROP2   !	      �%      Transparency  ��);��) �����P     PROP  A$      �%      UniqueId  ����t?H � D� @� U� 
+/��" 
+ � A� A� � �1� !#'(*,/248:;?BDIKLPTVZ]^`cfilpstvwx}������������������������������������������������ 
+CDEHMNPQVY[_`aegimnqtwy{}���������������������������������������T �c���� 	
+ "%&),/04789:>@DEHKLNORTVX]_cdegklorwy{����������������������������������������������������� � ��"%')+.2469<=AFGHMPQTWXY�^`efgkorxz{|�������������������������������������������
+!%&)*/45:>ACGKNRW[\_`adfjkmopqsu{}������������������������������������������ 
+ "&(.059:>?BFGKOQRUXY^_afjmqstw{}�������������������������������������������	
+ "'+01268:>CDGHILMPRW��������� ��-?� ��/?�� ��/?�� ��/?��� ��/?�ʴ ��/?c� ��/?� ��/?��9 ��/?�9 ��/?�� ��/?V�t ��,Pttt�tPROP8   5      �%      Velocity  ���������������������������&P     PROP3   "	      �%   
+   formFactorRaw  ������� ��(�        PROP'   	      � %      shape  ������� ��,PPROP�  1      �
+%      size��������� 	� .  �   #(   ��\ �    P    
+;   7 �       �!��� �
+ r������� �����������;        � > �   S )      I    �  �    @����t � �  � !    � 7  �     E p�������u���� �  � �@@��@���� �!   - � �@@� @@ @ � A ��  0  @2  0 P@@@@� 0�@@    D �@�     6  �@�� � �@�    � �  � T��@�@� @. � 6 '�@�  �  � �   � �� �  � ���  �  � / 8      0  
+$ 	  �   G d �      F  05�: ����q �P���   
+. ;    �7 	  P 
+ !�  
+  m   {�   �  �   <   Q 
+%   � �  �  �  
+  $          .  *  ?�~3 Pd 2F 3 3�G 3 ��R�+2F 3 37R �C4 P�d 2F 3 3�G 3 �C�� )  � �  
+�!   "�  1���  ���   L   .    & ,  "���   K	  G   
+'   ^ �  !   2 �      $ �   
+�|	$��L 7 . 
+�C   P     
+ 7   ��  $ ge   
+   3        ?     	  O  
+ 	   a    �    R �     %    	  �%3] ��4�P     PROP"           �&      AttributesSerialize    PROP   "       �&   	   HistoryId  P     PROP%   #       �&      Name   PermissionsServicePROP           �&   
+   SourceAssetId       PROP          �&      Tags    PROP#   !       �&      UniqueId H0o�ƍ�c���V�PROP"           �'      AttributesSerialize    PROP   "       �'   	   HistoryId  P     PROP!          �'      Name   PhysicsServicePROP           �'   
+   SourceAssetId       PROP          �'      Tags    PROP#   !       �'      UniqueId H0��ƍ�c���V�PROP"           �(      AttributesSerialize    PROP!          �(      CustomPoliciesEnabled PROP"           �(      EmulatedCountryCode    PROP!          �(      EmulatedGameLocale    PROP   "       �(   	   HistoryId  P     PROP(   &       �(      Name   PlayerEmulatorServicePROP"           �(      PlayerEmulationEnabled PROP+   )       �(      SerializedEmulatedPolicyInfo    PROP           �(   
+   SourceAssetId       PROP          �(      Tags    PROP#   !       �(      UniqueId H0q�ƍ�c���V�PROP"           �)      AttributesSerialize    PROP          �
+)      CharacterAutoLoadsPROP   "       �)   	   HistoryId  P     PROP!          �)      MaxPlayersInternal   <PROP          �	)      Name   PlayersPROP'   %       �)      PreferredPlayersInternal   <PROP          �	)      RespawnTime��  PROP           �)   
+   SourceAssetId       PROP          �)      Tags    PROP#   !       �)      UniqueId H0d�ƍ�c���V�PROP!          �)      UseStrafingAnimations PROP"           �*      AttributesSerialize    PROP          �*   
+   Brightness   PROP          �*      Color   ~���~���PROP          �*      EnabledPROP   "       �*   	   HistoryId  P     PROP          �*      Name
+   PointLightPROP          �*      Range��  PROP          �*      Shadows PROP           �*   
+   SourceAssetId       PROP          �*      Tags    PROP#   !       �*      UniqueId  �v��ʴ�9�tPROP"           �+      AttributesSerialize    PROP   "       �+   	   HistoryId  P     PROP0   .       �+      Name   ProcessInstancePhysicsServicePROP           �+   
+   SourceAssetId       PROP          �+      Tags    PROP#   !       �+      UniqueId H0��ƍ�c���V�PROP"           �,      AttributesSerialize    PROP          �,      EnabledPROP   "       �,   	   HistoryId  P     PROP           �,      MaxPromptsVisible    PROP)   '       �,      Name   ProximityPromptServicePROP           �,   
+   SourceAssetId       PROP          �,      Tags    PROP#   !       �,      UniqueId  <&�nU/"����PROP(   X       �-      AttributesSerialize  #P     PROP�         �-   	   HistoryId  L         P   P �  P��� s  Psss �  P��� 	  P			 �  P��� '  P'''   2'   - �       �  P��� � � ��������PROP�   �       � -      Name   close	   Reshuffle   GoAlone
+ �WithFriends   StartSearch  
+  !ed �liderUpdatedc �	Reset   DisplayMessage �PlaceInfo� @open �SaveThemeSetting    `Loaded� BPickC &DU PDebugPROP&   �       �-   
+   SourceAssetId  U PPROP   I       �-      Tags  #P     PROP�         �-      UniqueId  
+L ������Ҵ��H_���=>XYex &� P���s � P��  P����	 } P���i� � P���.' � Po � @����, !�m P999/� � PQ� N P���Ӵ �jjjjjjttt6PROP"           �.      AttributesSerialize    PROP   "       �.   	   HistoryId  P     PROP"           �.      Name   ReplicatedFirstPROP           �.   
+   SourceAssetId       PROP          �.      Tags    PROP#   !       �.      UniqueId H0h�ƍ�c���V�PROP"           �/      AttributesSerialize    PROP   "       �/   	   HistoryId  P     PROP$   "       �/      Name   ReplicatedStoragePROP           �/   
+   SourceAssetId       PROP          �/      Tags    PROP#   !       �/      UniqueId H0��ƍ�c���V�PROP"           �0      AttributesSerialize    PROP          �0      AutoLocalizePROP           �0      ClipToDeviceSafeAreaPROP          �
+0      DisplayOrder    PROP          �0      EnabledPROP   "       �0   	   HistoryId  P     PROP          �	0      Name   MainGUIPROP          �0      ResetOnSpawnPROP$   "       �0      RootLocalizationTable   PROP$   "       �0      SafeAreaCompatibility   PROP          �
+0      ScreenInsets   PROP$   "       �0      SelectionBehaviorDown    PROP$   "       �0      SelectionBehaviorLeft    PROP%   #       �0      SelectionBehaviorRight    PROP"           �0      SelectionBehaviorUp    PROP          �	0      SelectionGroup PROP           �0   
+   SourceAssetId       PROP          �0      Tags    PROP#   !       �0      UniqueId  9r�nU/"����PROP          �0      ZIndexBehavior   PROP'   0       �1      AttributesSerialize  P     PROP          �1      Disabled   PROP   b       �1   	   HistoryId  7P     PROP    )       �1      LinkedSource  P     PROPQ   Q       �51      Name   Music
+   ServerMain   CheckGameValidity   README
+ �angelogsPROP   '       �1   
+   RunContext  P     PROP�   �       �.1   
+   ScriptGuid&   {01AC45FD-5442-4493-9941-08FAB5C505BA}* �C1F72324-023D-4676-A0ED-5C06D39E6F71* `F73071% �4A2-4C68-B777-5F9E89B6AE9B* �038311DB-26C2-431D-83E4-4367847F475C* �A24279D6-B4A6-4A3F-9C49-AF8A42AA1545}PROP  �%      �'1      Source8  local ids = {1841647093, 1848354536 �36362602 r9311958 a074215 p5923667 �47418280 q3965657$ �45555980}
+function chang()
+	script.Parent:Stop �#.SoundId = "rbxassetid://"..ids[math.random(#ids)]W �Play()
+end
+
+
+
+while true do
+	� Ywait(� �.TimeLength> $�<�HttpService = game:Get '(" B")
+
+p0Cur� QPlace� �	workspace:WaitForChild(") �GameId")? �TeleportFailConneQT= nilj t$ �AddonMessage��#"Have fun!", "Hopefully it isn't another starter p� 0.../ �
+I wonder what you'll findM �Cya later 0Safc�avels."}� �A = R�U.new(�DataStoreFX$  ,  0 =  H  � $("* �� PsList6}
+
+�`manage (& �Id: number,�Info)
+	table.inser* P % �d)
+
+
+	if #F  � > 30 then
+	@ nremove@ 0 p[1])
+
+	�  � �getUniverseId(^5u r = 0
+
+	�0s, �dpcall(� y  Presul��:JSONDecode( �GetAsync("https://apis.roproxy.com/� Rs/v1/ �� 5..""  ")� $	 2 � � . �
+		--print( 9 A	
+		%1)
+	rscgreturnY ' & 3not*  W 1e) /2)` �  ��Search(ID)   ] � " 0ingN� �@Valu�00
+	P�.Replicated�Bage.C S��d:FireAllClients��P � = ID oru�:NextInteger(1, 9  ;=  s,�  	�b 3nfo�q.Market�� upProduct#�0
+
+		C  : 
+	  .A�1Typ)4= 9�� 0nam� 0strRSlowerd �nfo.Name)T . creator1 C! 
+9 Odesc6 "De.0ionBo � !� � 3 !5  �  � 5== D	�r� 
+ � 	 � is�PPubli�  b �� ("	 1erS�  ]!.R5�; �ity:Invoke(� q �   ] � �DisplayDebug� �!, i FId, \ ,�,� s < �  "if��~= "this is your very first robloxo �ion. checkAout,�P make < �own with: �studio!" and � 2 ~=O �or..[['s4!]]" �  �� �  �� m   �b"Valid\   f,	#! lPing it: |g d*  �� �= <nfo� /, � �Belse� � NNo v� R � �2.25H 	D .$  ] � �a"Not a
+A", 0 4"No�s", fals�r� |  ��   ���$ y�
+�  P--jus�   �	
+
+5'--3/ � �(On�
+�(People: {i�er})
+	for i, p in pairs% A) do�"p.- �Gui.MainGUI.bg.Cont�.a p.Visibl�J�0sta�pp:FindF�?`leader =s") X  s"�key = p.User�_& � N  8 
+ �G-= 1��Lopen�U� Wclear�� .�%12V6plrW�KSs:Get  ()jo
+		plrj%
+k-lrOm&/lro'	� �$:S}
+@key,�� � �0P	� 	�	��� = coroutine.�)e(� $if�R �
+�% R:Disc�
+  � 
+2  ��\ � 1IniX3ed:[
+� `lose(cg�  � %r�
+�/ =�
+�#  ��� d? 
+ �	 +)0Tex{"8r�<br />".�� X � 
+C ww 
+
+mxY� & �� :� �
+H��", � �=� �  K(*�� Go :	�+�*& |?e| v%-- h8s ?AddBEplr)���Instance
+A"IntV"8 ,  � � �j�% �M  G  �tsS  �J A	/�ThemeSetting{ z
+�� �s �Uqkey) or�2d
+[  � "V � S 2T �"LightMod9 �� �
+K� r 0Loa�BFire�h(plr, # Gj #> �� 1r3�	 � Pactua�qused i �	Pcould��think of��way to yeildQ � thread until  �
+Aer l�   i���	! � � brepeat;)b X" >� L� � �@_ f  ) �{� H }I<
+� �� � �G 
+�	Dn
+r� �AR	>ing�"
+A�
+( �T�(+P ��
+�	) r �   � L ?9�:BindToC���,X�+�
+ �I � / Z+ �Q [�* \ X�* d���Reshuffle").Onq@erEv�
+F
+/p)�	^Reset�	�� .
+�� oGoAlon� �@({pl�i �WithFriends�  p-
+  z } ��
+sif p:Is�  �  j �)� �e��  , �� � 
+w�SliderUpd�4valW!.NcRRange�  =�;( \�ttribute("P� 2ingQ	�� 8ave�� ���xBPick�D� &IDY  m �
+/o�#0--w�� equivalentl} lI ���, pretty self-explan4yp; 	��prespons(� T	�� �
+�"v1 ?MGs=".q$)
+@\ ~ K  ge�lUBof pxf  #�d by a user or group� �x *!s(:  or,G !or� lpendpoin�+  �	"��		 2/� Cs/%s�	accessFilter=2&limit=50"� I � J ��tformat(� ���a boolean��d;t�P expe� ce7vac�����	
+  1 �.data[1].2 h
+  �
+	 U U.type i�� �  `b � ;%if- 0.idG!V @L!�	
+,�  
+� �: 0 sh�� be gener�m 
+�"pas oppo�#to��ids, as typi�@y onfthe root& "s � <.H	�!��G�a� IDt
+�"is�) =� 3
+	
+3% 0	
+	�
+
+  --T�0folg!�has stuff7�the VirusDestroy�!@uginD s.u> sautomat'Bbeen6�ed upon i1lla�#oh  
+ T O �DON'T DELETE ANYTHING! j  If�1 do�Pccide� do��worry. The n*Atime/ 1sca�� @will!re;�d.
+--You & Adele12is fP, but}7 �  � n v$k � � @reme�!R P look�Pdiffe�# ��at's becaus�  zS" u���new readmeNPsions"� dani_lionn 2022 �Av1.0�<   oL    -* 0 Ch	plogs---O  @ �: Release�$	v P 2022PROP"   >       �1   
+   SourceAssetId  PPROP   !       �1      Tags  P     PROP^   a       �1      UniqueId  �7435--�������Ҝn�nnU�UU}/i//�".""��o����m/��Q��N����j�6��PROP"           �2      AttributesSerialize    PROP   "       �2   	   HistoryId  P     PROP          �
+2      Name   InstancePROP           �2   
+   SourceAssetId       PROP          �2      Tags    PROP#   !       �2      UniqueId H0��ƍ�c���V�PROP"           �3      AttributesSerialize    PROP   "       �3   	   HistoryId  P     PROP          �3      Name	   SelectionPROP           �3   
+   SourceAssetId       PROP          �3      Tags    PROP#   !       �3      UniqueId H0��ƍ�c���V�PROP"           �4      AttributesSerialize    PROP   "       �4   	   HistoryId  P     PROP          �4      LoadStringEnabled PROP&   $       �4      Name   ServerScriptServicePROP           �4   
+   SourceAssetId       PROP          �4      Tags    PROP#   !       �4      UniqueId H0��ƍ�c���V�PROP"           �5      AttributesSerialize    PROP   "       �5   	   HistoryId  P     PROP           �5      Name
+   ServerStoragePROP           �5   
+   SourceAssetId       PROP          �5      Tags    PROP#   !       �5      UniqueId H0��ƍ�c���V�PROP&   $       �6      AttributesSerialize        PROP!          �6      CelestialBodiesShownPROP   2       �6   	   HistoryId  P     PROP"           �6      MoonAngularSize��``    PROPF   L       �"6   
+   MoonTextureId   rbxasset://sky/moon.jpg � id://6444320592PROP          �6      Name   Sky   SkyPROPb   a       �>6      SkyboxBk1   http://www.roblox.com/asset/?version=1&id=1327366   rbx" � id://6444884337PROPb   a       �>6      SkyboxDn1   http://www.roblox.com/asset/?version=1&id=1327367   rbx" � id://6444884785PROPb   a       �>6      SkyboxFt1   http://www.roblox.com/asset/?version=1&id=1327362   rbx" � id://6444884337PROPb   a       �>6      SkyboxLf1   http://www.roblox.com/asset/?version=1&id=1327363   rbx" � id://6444884337PROPb   a       �>6      SkyboxRt1   http://www.roblox.com/asset/?version=1&id=1327361   rbx" � id://6444884337PROPb   a       �>6      SkyboxUp1   http://www.roblox.com/asset/?version=1&id=1327368   rbx" � id://6412503613PROP$   &       �6   
+   SourceAssetId  �'���NPROP          �6   	   StarCount    ppPROP!          �6      SunAngularSize��P`    PROPE   J       �!6      SunTextureId   rbxasset://sky/sun.jpg � id://6196665106PROP          �6      Tags        PROP3   1       �"6      UniqueId   H�1����Ƙ�ʉ�c��9���Vt�PROP7   �      �7      AttributesSerialize  ����������������P     PROP�  �2      �7      C0         .       +  %      %  (  
+  "           ^  
+; 9 , a  �       x  �        �  (   
+ 
+  !     * 
+    +   � 
+         8 
+3  �     )  % 
+  ,    A � a   /    �  D :     � �  Z 
+    I      
+  k    k    #    !        ` * (    ' &   r    �  * 5  *  
+   '   5  	   5 )  C   �  	  2 E  ,  %  )    &    9 !    
+  : 7   &  i             7  @    
+  �          .  ! r    = 0  �    '   -  ? 0     ?  �����������������~~~~�� /� 1?��~G *~~ 
+  N  	�  �    0~��   �  ~50 (  2V r � � ` 2L 
+    :  -   P ,  	� 	 K�    l 	!   ' �  
+�~  /  �  .   9 ?~3 ���������4445545445         .       +  %      %  5(  
+  "           ^  
+; 9 , a  �       x  �        �  (   
+ 
+  !     * 
+    +   � 
+         8 
+3  �     )  % 
+  ,    A � a   /    �  D :     � �  Z 
+    I      
+  k    k    #    !        ` * (    ' &   r    �  * 5  *  
+   '   5  	   5 )  C   �  	  2 E  ,  %  )    &    9 !    
+  : 7   &  i             7  @    
+  �          .  ! r    = 0  �    '   -  ? 0     /54����������������P     PROPtC  ��      �
+7      C1   ��    4��4�& @  �?  % &N  @ B R [  ! o � % & o � R 	  k    e �  
+% � � � S � 
+(  k  )  H g J % � % � � J % 6 � ^ J % � 9 � [   w g &��4 �?
+ % �! 7  1 % � J 	2  �&9 b  � % � Z    � J �  J � % �g 3 � % �  @�  J % o   � vo f (%  � <A  J % �� 
+� J % [ �  �  � <% 6  I    � % [ �  J �	  | �  S�  Vo ! =  r %   % � %  f % 6  �  N 8 ^ J � \�    �     N  # ! % �  # �	% 
+ M �  A   k % 
+ s �  � �   % o  % �� � � �* � � % � �   J  % � J %  E  � �  6  ! �     % �  F  N 8 ^ R   ) � ( �x  %  �o  %  J % (J 
+
+%    � � +�  % 9 % �   % 9 % � % �% [  (^ o J  r[  �  % � 6  � o  �M J 9 o % 6  J 
+	 % J V J o 6  B   R � %  ~ 9 R 
+J % � Jx  � �    
+J  �  A   [  F     % (7� � A  � � r % J B M% ;�� r �
+�  � )  @ B � % o  R J  � � 
+�   �  �[  � J  � . % �     9 % o % &�  � J %  E�   � A  !    #  - . J  �  % �  F      w J �	� S^  J % 
+6 � �� f  J % 9 �  o \  w � � � { �  -   � �� % 9 N Eo % [  J  J  ��  %  �J �  %  o   o  % J ��  �       _ %  �    >    [     =  �        % 	o 6 !    � J F 
+J   � 	$% 	� $%  �% 8  � 
+o  �� 
+�  F    X N  � % 7([�  � �   N P  r  T   	 
+ �   [ o 
+2 
+J 9 �   6 o !  �%   �  ) %  � ;  [ o 
+(2�  n   }  � P( - ~�^ J *o #6  �  �  � � .% o   � 	 J 2x J ^ � %   R B _ �� % � <J 
+%   : 9 J % ����  M� � � % 6  %   � % � � J +� PJ o #6  +% "� J 	�  r9 (�
+� � �  � *o % � G M� r  P� 	% 6  M9 J % �  1u% � % S[  o 9 o J <o  Mo   � O�  o  .(� � J % r%  J o   � % o \� � �  	 % 6  � % (/J "  c�        � �    )	% 
+  N  ��  u% ( J +6  o 6  %  J V � o % [  , (  o � � % &� �J 
+%   � 9 J %  Y � (  rJ % M 	(J % [  � 9 � o % 7[  o ^ o � (6  ( uJ % � o 'J " �9 r � I  .� B%  [  � - �  F   $  % 6 J 
+%  w � J  J � J  % 6  �     � %  �� P�  �    � � M!  B  <� %  - � % �   % .o % � \o 3�[  b�r%  V( � �4 J 9 �  % J +% o % '�  �� % 6  J 9 J ( � 9 (% 6  J 6  %  J   % o   W  � �, � ?    	
+ % � = � �  2 o % � 
+  �    �   � 	  m      6  N ^  % 9     % � �  %  %  � �  % O� M � �   �  % �  %  % � Lu  S  �  � �� � �   !  �  )  � 9 % ( 4(% 6 � %  [ � �   o  �     % o J % Q �    %  o % � e	� J �	;(o f  (	 � � 6  �     �% [  F    H �J % C�f  �% MB � J +M% �  v.�% &�  R  CM o 
+%   2 !   � � V% �   ,(�
+a -  @��6  : �   %  � 6  9 � �   !  ) $ ^ % �  !  ) % 
+J %  4�- % . o ^ � % 6  �  N  @ B � J � A �  N 	� 9 S   w  �% S  B   *   %     �  g   8 J  �^ o � % o 9 o &J 
+�  � M   	 % 
+�  F  ) 8 9 �%  �  �  ^ % 6 o � J % o - 	  �  N  @ B �	  !  )  # �  J o +g %  % 9 R 6 o � J  6  �    @ g 	. J  =o 
+�  J  o  % � � � 
+% o J u�  n   � � r� J % 7� % r7o % J � J  �% 9 �% � 9  	
+o    - � � � : % ^   �% '� o % #�  � J  � <7 % N  �  | � � N#�
+ M +   � % 	o  8�   !  �% 
+�% � B f  J % + �   8  J   W  s   o   �
+ J �  F    H  A �  F    � J 6� e 4 ^ � �   $   % %	 o      �  � 
+�% k 
+J   N  k �  � % .^ F  N ] ^ o % �   R B $�  % 9 %  �% q�  �� � % 	bC W �J % 9 J � � o [  o � �  � 6  J ^ J  �   o  �k   �  � ��   R    � %  k !   %   o   W  P �  +	@ N s   k  �  6   ! � �   
+   �5    k 6   � A   )  �  ^ |  � 	% o  % o Z % 6  : 	o �  r� o  % ^ % � %   2 �
+( J � � rsM8�   �Y�  � O       e% R| '  �  � �  ! 
+�   %  !  )   J 
+ �^ - o � J 7 B � � � o C�   � Q  �   9 { ! r  6 �  J 2  s  X �  
+(o   �  % ^ F � o ]� 7J 7u � a9 D  n v � �6 % J   �
+J  _ % 	�o 	% P� �  � ^    � �  % � - % o  % �
+o  =9 o  � �  J   2 $% �
+J 
+�  6�  b 
+J  �  � % 6  =^ � % �  9 J � 6  J ^ J �  J 9 % � 6  J % M6  (o J  � 9 � � J "� �  � ^ �  J 9 x6  J %  ��% 6  J 9 �   % 9 % o   % 9 % r  % 9 % J %  �J   J %  � o   �^ % o % 6  J 9 J �   % 9 % o   % 9 % J % 6  J 9 J o % 6  J  r� 9 �% � �  %   
+  �  � �� ��   �  n
+%   b .  !  N 4 o      � % 
+�   - B �  � S  % 9 % �   % � % J % 7[  $o 	 �9 �   J % � o L� 7�  �^ (�6  ^ J +J l��  + V�  J 9 V% r% �  �9 ��J  � J L M� M  �bJ �  o 9 M �   
+    � 
+6  J ^ = � % 9 %  o 
+�o   %  � J �  o   W � �  .� ;�  � � � (J "�'�  ��  o 9 � +  9 % 6  J ^ J �J 7�  � ^ �   % 9 % � % \�  � � � � %  B '   J %  [   
+
+J   9 S   R !   9 % #� _ �  f  �  % 9 % �o '[  o �o (  % 9 % � %  4J +� o J �9 rHo % �  � 9 �+% " J % 6  h	x� J � % '� % � 7J � 7J 7� \o % % 7� 6  �Fo 6� ��   % � % �J " �9 o   � �   % 9 J % 6  J 9 J o % 7[  o ^ o r(L�  � � �   % 9 % �   % 9 % J 6  J ^ J o % 7[  o ^ o � % " �J � J % 7+C
+o % � '�  V� Mo J % �  � 9 � �  % 9 % � 6  J ^ J o % 6  J 9 J � % 6  J 9 J � ��  � � � <o �  � 9 � M;  W =P� [0#xL� 9 � �  �	X   �   %   ! F   !    J 3F   Z �      q2 � l�   ) %  � S  � -  N    	 
+ o 
+�  �  H 9 =  ! J 2   - $  9 5 %  % a�
+ %  m)  J % �% k �  � % 6  �   J + % �  % ^ J � `  5 � e	� ��  % � � 6  @�% 6  % 9 % o % 6  J 9 J r � 9 % o   J % �  J 9 o J   W  �  � �  �	=  ��% 
+6 �    ��   s %   6 2 �2
+k �	k % /� � � ^ �  $� 7o <  � � �r % �   � %   1�   s �        � � 
+%   )  �o  ) 9  %  = %  J ^ J ��  xJ  V  W �  �   	  �    �   J 
+ 
+%    -  ) �    J �  F �   ! -   6 % MJ   w o � %  B 6 � �  	 �  !  )   f 	  !  ) % 9  6 % 
+6  F  ) 8 o %J \o \u\� 6  o  
+d    J (o u2o \�  
+(� % �  % ^ r �  r J �    v- �  �% 7  R o � x  %  : � �  N !    %    v%  �X� 2 �	! b 	F �   9 %   � ��
+9 _   5    [  � 
+%   )  
+  )   9    ! � a  
+ J 
+( ) 5  s �     % ��  B k   J �  
+%  N  H ! 	(     J  �  k  �   !   )  6    M�  W � !   )  6  J P  !  N  r� ;
+ % �  	
+ q
+  J  o   
+ J  � �  � ( % �  o  
+ F   5  W  !  )   9 %   N �   N 9 
+�   
+�� �
+�  W  � I 9 s  �     =   : 
+J % s � �  F !  N F   � % F  - %   2 (  ^ o  � � �  % o G  �  | �  u� � J  J #�b � 	@	
+  o �  �  � 6  J   %  � J � J  J o     + � 	f 
+ �    ) 9 9% s  % W [  w �  ���}~n�k}m�~��� �}��}~�~�}~~}���}}~ �k������ �m��������~�����~~���} ~}~� ��; @��^ 0�~�
+ �	l��~}~�m�}�~�}���k}~~�S 0~l5 �x ��k�����������~� @���� �~������l�> ��nmn���n���n���~��}� �~�}�}}�~��~}�}~�m~l~ #}~�  �  �4 0}}�� P}~k�l  �l? P~}� � }� !~�� q `~} � }� �m�~}}�}}�4 �  �~) � � 1�mi@��l ��~�}~�}k~m~~�k��o  }t `}~m}~ �  �}�  v0��}= @~��m� G >���n���o� ~, x�}~}�� �k� 0��n Aml�� ��nkm� md   d  P��� ~	  mp�i`l�k��o ���l��o P���nm �7@���p  2��m ~} !p�g  �  �  '   n  m  1�o�& �    � 1  P���oj" j 0lk� = ! � j  kmn  �� @���k1 �)S���kk� 0on��0��oP����3����~ m~-F 1�nB �-  X
+    2     !�m?  ��~�n�� �  � `� �� � �� @� � �� �?�  � ����   � ���� �! � @ ��@ ��� �@(   �� � �@ �  @D    P@ @ I �`  
+  @� a� ���_& B ��  �o Z?���p��`�`��` 0�/�@p/���0�@_`p �l � ���  �� � ���  E A�� [    �  �  
+ 1���-  �  Q�@�? � ����  �@��� �^ p� �  ?� �   @@� �� ?��    /`� ��� `���� �NP� @ ?� @@�� �  !�@�  @�@C 1��R ��� @��( T  	 @���@  '   P@�  �� j ��P  g Q@ �-  � �?@��@�� �  ��@ � � � P ��O 0      ��p�� �� @�   �B��?*�G @��  �  � 2  �:  �  S�@� ?Y 7 | |� 4  " �@��@{ �t � i    �         E  & _    � C  l L R  
+  (  ��  r     R  K   8  ? 1   `��@ � A��� !��V $    @��  a1��?c A 0� 1� E ` � � 0  N���� �@� ��R I  G� `�@@���A P  �`� A  O{ .  
+   ]  B ��� �  `  ��Ǘ@� �9 1 ���   ���  �K   =  �     q P���y   P � �M $ �# 0 ��: 6 �I 1�  h� w 0 ��T !#O � ?  < E  , 
+   "� % S B  �Y B� ��� ,  �  ��&  � `���) ��  ��       1 �   i �<   � � !�b � d   ��  1  C  � ; b �����h    
+  # 
+    �  �  �  �        L Z  -  #     �    )       �  �  +        C h   
+  + ^ #     ,    * 
+   YH  F   / �  
+       F    ]  C   !  @  R ;      !  C  = (    4  B  �      $            h   2  	 
+ a   T 6 O k   # C  4    # 0  �      
+  ,   6  > ��  ��� �  @ �`��� �  A�0�
+ ��A �, �����.    � �� �H�p  �$ ����~ � �! &)1СQ�AA� �$P@� � 8��P �AM(A�)�1��� ��A � �&L��@
+������M�' � �  � 8�!�	 ��4  
+�� �  d��@ ! �������p�
+�(���B�����������! 	� �A A5�43 ��1A 9� 	� ��	!� � � 1 1���!�8�����5���1Q�4@��)@ �� �	@ ��ј��9 !�� � ��1�    �  ���A��ʵq�!�! �� ��"���A�Y��� ��z���q�A��� �������P ���$	��!�  ��!�   � ����� ��� �     ���!! ��(�(� �� p8�f7�^H�( ���� �� @`   ����@��� ��  �a ��� ���n P�	�	|}����a  �	����� �q��T 0A@p1 �i�9�@��  	�|����P  �4� ��� ���@�� �8�������Ax  ��@ � ����������  ���D������$�� � i����A;�q� ��� ��  i � ���D����E��  ��  ������	{ Q 	����   `�B�< �`��t�:(%�H��鰐��(�*� �d( ��
+8D��A�   	�  h  @��@�@��@������!�@ �X``P  A����0 	`~~�   ~(  
+  q~~~~~�  	  >  � 
+ +  V
+  ~  �  � ~�     �  �	 > " <    
+  8   (          �   8
+  ~�R 
+?� Z  *      
+      
+ g  �~7  
+ = �  	    	 S d  	/   D  G& 
+�  �    F 	 � T  
+� :        
+   '  ! @ } �                �       #  � /  c 3 h|   > 
+ ����5//43303411445131333423 @3332 4   s0344400Ap1122311$ �0433/3/15  >  2 2  =  G    2K @333�  0232w  o    c32�22�    f : $ @�2443    9 @5355}  4
+ `444552e   '  @ �224200210//  �  $ *  !53� 
+  x   b  5     �     A2300{ C1330�   �333662517   $12�  33r   \53.- 	 "31�p4222452�  �   
+     .     Z  { 2/ 0056��:535356314614325538:> �9735712;5576184317343542413r`313206)#24Y 4] 5/
+ 5/u  54�  52\�741044363625507528� 5�75203745_ �2226435334721246� �331271324675%4 0877H  y 0� Q24753e p3162163| �21173863220228252.r6� 8p1321025�@1575� �0215330611�  b 4�    �64146345665��4314464571�  4  55A 0214� 6�0443> � 448   -0� !53 �    {   � 2or  p344.51/� � + 5� 1240 T !45U���2qa����H!� �!��A��� ��@�A �A��� �! �`�A��a``A��a�!a�!A�  ������@A@��pA�A`�yp��a`Q�@!���A@�a!��A   ��A! �A�``Aq���@�Q��@ `a��1��1�`�Q�1�a�q��1��Q��!���!�a��  ��A��AA�`�aaa�!�� @�@�a��!�P�!�Ё�p������p����@�A�� ���a�A A��a�A�a�P�! �!�A�A@@��`a�A� ��!��!���� ��@��@`�Aa�Aa��@���0 �!@pБ0A��@ a!�����`���@� �A���q�!pa� !A��� ! ��  ��a��a��Q a�AAh�a  �����!Ё  �@�����yq �����q�ခ@��`@�����@A`a�����1�aq�1!����!�a᠁ �`�P���a��@������ H������� �@�@����@����P�/  @�  ��� ��� �A��!�`a !�!����������`�  `���`� �A�� ���A ��� � � ��r � �  ��@�V� �@@`� �g  �� ���A��A@�@�  � �����@ �A`T 1� � 0  �  � ]P��a�A���@  � � B ��� ���, Ё@�AA��@��Av A ���� � ����@��A�@� ��� �� ��  A �� �� A��������@�@ ��A@��  {`���  @�@��� �� �| �Y�?@@A ��`AA������� ���A����A`�!�`�A����@������` �� ����A�`���@� ��@@�@��AA  ���A�� @A�@@���AA�{ ���@A ���� ��� � �  mppn~mpnnp~mm n�mo  mlom   �1 mm  m�m ~nmmmp op~~ml~~ lnn nnm o momllnlmno~l}nll nmn m mnn�nm�  ~m oomm~monm  m" m p� ��nm  Pn ml�  pk�nnmm & o{ �ln}l~}ll� qlmml omO   � `m n ln.
+/ p llnnnl��nmmnmlmlm  ~l �~ll  m mmmR P   mmq  ll  _ 1ol}Q  }  Qm� l��llmn   l mn �pkkplkkmmln �n~l�poljpnnF qnn}n}}7 �lklkll}l} lkkk4 !jj �}}}kmmkmlnmn - ~%  kln s �l} �l}m}lnnllk�Q  J �mnmj�noono, J  �@m��m�  nX    !  B op�km�oon! 
+��ooppppompoom~   �~ o) k"[ < H �kk���j�jn X  � �� 
+ 	 0�*  -  n�  4  M o,  V  Y 
+ !mm�       z :       <    F   � M  n"4 m  
+ / a���n~�@o��lR& ; !�l^     o��konp�on�ot pk�ookj/   lnC� omlllkl�o}lolV pk}l�mf �@ �m  ` �m�mk   n�p�n ml 0mm&@ �{  @E C@ �     # � `�� �   `   �>  �X   � @ @�   2 @ 2��@`   а� ����������    � Q���Z�p   !@@  G P  B  ~ �  j   �@�   1� �/ @�
+ /  W      ) ��   e ����  ��0��( � ` ��@`�  � � q�q   ���� ]   !@�R   � ���� � �9@�  ( 0���_  
+ B � �0�� � !�@. 0� �  � �  � 6   9 0 � hE ! L  ( T�> , �  @ @�`L`� Q! �    �^ ,� '%���n , @�� ( 
+   @� �� " y!�� �, � �  �  � @ ��� �     d �   �   l  \! I  J    
+ p � �΀�  8 4  O  |! @@��� ��!�    0    �� H��@�Ƞl�� 0� 8U!@� ���% �   � @�@@�� ` ���@�e� � �  	 ^ 7  ��   � � E� @�� �8  � �   p  
+4  �  - �    �    1��$	    �  9_      1 H� �� � 
+ J����         Qc        �          0� � Z<  ���� ���q �    9 
+    :  < 
+  "    � �  ; �A  ��      * K     6   Q  =      A� �       . 
+    
+  u     M  C 
+           e   �        W (    6  f    !     � �   � 
+ m    4  �  ���� 
+%  <  Q  @��       �/   1� a o P���������� ����0 '" � �A  � �      5 A    / 0p
+    - !@� @�   ! �       #�   P  A  S  !�� x    01�i  q i �
+� ; A� �c .   r  `a��%  b 4A� e �� ��  06   G  7 A` � �' 	�ͥ
+ ��=!��'  	 � �=  
+(�
+ A �]- (	�Q,1� $]\�I l 0�� � | �$!�  
+� @ i�J��q�@��`! � �K� � 睻�@�=  �L ��1�0D==J!
+�@@��K��! � �  �� A��0� !1�>�6 	�8��	�(( �11�Q� ���!��I �1�`�@!p �I� ��a `�
+�A��)(�`  ��.
+���  �	�	���0@� �-`�p�  � � `��(�pyA!, �� d��	 �8�8 ��0� ��` �� @� IQ �� ��0 a�� AD0�PM   �  `  � a   ` !�� � �0 P` � x'�!� `    !� �0  �� �� � �� ��PROP   �      �7      Enabled ����PPROP\   R>      �7   	   HistoryId  ��������������������������������������������������������������eP     PROP=   -      �7      Name	 OSnap �������������������������������P SnapPROP�  �      � 7      Part0  �������������      a   
+ 0  C  P     4  
+ & �  
+ 
+ 7 
+  @ A  
+ +        Y 2 \  e  y   QR  3  <  Q x  k �  �    1� A  
+� 4 �   �  ,  �  $ �  d p 
+ E  0  (- z 
+�  3  � / � & y  &
+M 0"A�  � 
+(" J  � �  F  �6  � � �  b@
+  , L 0    9 p  h   .  �  �   < 
+   � � "� � ! �  R  % �      �  �   O  
+�  ?�P i    ^OD  |   �   @ w   �  ! m   1   � 0 z   � T �  H e �   8  Lg  j  �    %  � �P ( N �   � t " � � � � j %6  ^. r � 
+     
+PROP  �      � 7      Part1  ���������3 	  
+ 	
+  < f     	 6 @ . �   6 �  �
+
+  2 ! e   S  \ �    + ;        �    U  o  b  
+` 2	 Q  2  $ x  c ;      �   @ ]  M  3B � " N �  !  �	+   # �    �   � Q : $
+X  
+  r    R q T  "  '   @ ( 3  �     � : 
+ � �      I    P* @    #  N �   e0   -V    C		   "������  	���]%bmr%fe<��S�)+C
+�}~B���� E*�Ybk   f��8?�M��Ave
+ �
+�2 �%2��-68~OA7IF���ٵ �^OVUV!���R��Bh침�i�PI^ -db] ${74k�*97�
+l����8C<y�����/��*)�n� ��� �gf�?T:��e�cO��
+�	�PQPwf �������)(n�GN(����89`'7H�pu�UP��m\�� K.���|x	W�)}vs�#��,�I�c�@?B�������g�?? (A ')R'����CH	 q��d
+yxw U��
+4�ĥ& N*e:9:- �TKN������� 
+vi�w�h ��1��  ! U���$�� ����Q�;�H��-,TY3$��;4�) @�_Z�9��������%`wS�$,+8[%v-P[B�W;,��f���������~4%'8Ie�h��Ϋ�{ 4��i9� ���$���]�%�:� -��&����m�Y�敔��9t~pm2i��B����9���>0����:	�X�2��
+ ����jT`5���!�z:=X= O���u'��M�C�P����'4��ռ#�� � =܅���)$�Ct$���O�|)|MJ��op3��J[�?m�(ײ��=L�_�/�����;a�;<������
+�����)m)�GF�~CcХ��F-���ĥ����B�Ї^2X�VUah
+*�DS��Ν��TU��xV3{NG�� ����0i�.�8��6E��|�M< 0:q !n	��E 94C6,G$�7.{~	gh7:M6mvu|�GPROPE   6      �7   
+   SourceAssetId  ���������������������������C ����PPROP'   �      �7      Tags  ����������������P     PROPQ  Q>      �7      UniqueId  ��������� o� �� w� �� �� �� %��	$%&+-.03579<=>@ACEFGHJMNOQRSUWXY[\_abdeghjkmnoqruyz{|~���������������������������������������������������������������������������	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABFIJLORSTUWXZ\]^bcdfhjkloprsuvxz|~����������������������������������������������������������� ��������
+!#'*+-12356;<=?ABCFGIJMPQSUWYZ[\^`abfhijmnpqstuvxz|}~�������������������������������������������������������������������	
+
+0� !#$&(*,-/013578:;>?@BCDEIJKLNORSUVZ�dcdhijl� �wy}~���������������� �#��������������������������������������������������������������� 	
+�`�P"#$'(��01236789<� @BDEFHIJLMOPQSTUVXYZ]^bceghilnrtvwxyz|~�������u����������������������������������« 1��Ϫ �
+���������������������������  ��!#$%')*+,-/{�678;<=@ACDE� �NPSTVWZ[\]`bc�iklnopruv� S��������������U � U������ a������%�������������T������������ � �2� �&()*,-./3457R�ABEFJKNOO ����� ���� ����� ����� ����� ���� ����� ����9 ���� ����� ����t ����PtttttPROP(   p       �8      AttributesSerialize  ;P     PROP*   h       �8      EmitterSize� @   P     PROP   b      �8   	   HistoryId  �8P     PROP(   �       �8   
+   LoopRegion  0`jG  �P  `jGPROP   $       �8      Looped  P     PROP?   �       �8      Name   Sound   Hover01 3 2* VClick * �PClickPROP    *       �8      PlayOnRemove  P     PROP,   �       �	8      PlaybackRegion  0`jG  �P  `jGPROP*   4       �8      PlaybackRegionsEnabled  P     PROP'   j       �8   
+   PlaybackSpeed   &P     PROP   %       �8      Playing  P     PROP    h       �8      RollOffMode  ;P     PROP#   g       �8   
+   SoundGroup  +? P     PROP_   :      �!8      SoundId       rbxassetid://10066931761 _42189 l36758T �4522679186 n ��P67918PROPH   �       �8   
+   SourceAssetId  ,= \ ���5 \ � \ `�� Wb�l Pb�lPROP   a       �8      Tags  ;P     PROP!   �       �8      TimePosition  �P     PROP�   a      �8      UniqueId  �4yyyysss �y{{{{���������-W�����ۃ���  /��  /�  /�  /}� �  /�  /û  /m9  /�  /N�  *jt PtttttPROP    c       �8      Volume~   &P     PROP8   r       �8      xmlRead_MaxDistance_3� 8 �   P     PROP          �9   
+   AmbientReverb    PROP"           �9      AttributesSerialize    PROP          �9      DistanceFactor��=pPROP          �
+9      DopplerScale   PROP   "       �9   	   HistoryId  P     PROP          �9      Name   SoundServicePROP#   !       �9      RespectFilteringEnabledPROP          �
+9      RolloffScale   PROP           �9   
+   SourceAssetId       PROP          �9      Tags    PROP#   !       �9      UniqueId H0O�ƍ�c���V�PROP          �
+9      VolumetricAudio   PROP-   +       �:      AllowTeamChangeOnTouch            PROP          �:      AnchoredPROP(   L       �:      AttributesSerialize  P     PROP*   C       �:   
+   BackParamA~   �PROP#   C       �:   
+   BackParamB~   P     PROP    D       �:      BackSurface  P     PROP%   I       �:      BackSurfaceInput  P     PROP,   E       �:      BottomParamA~   �PROP%   E       �:      BottomParamB~   P     PROP"   F       �:   
+   BottomSurface  P     PROP(   K       �:      BottomSurfaceInput  P     PROPm   �       �:      CFrame �"���������###fff{{{TTT333eee333���@@@���)))���~   5��� 5X&� 5 f3 �p4p4p4p4PROP!          �:   
+   CanCollidePROP          �:      CanQueryPROP          �:      CanTouchPROP!          �:   
+   CastShadowPROP-   �       �:      CollisionGroup   Default aPfaultPROP%   I       �:      CollisionGroupId  P     PROP*   8       �:      Color3uint8� � �������������PROP/   -       �:      CustomPhysicalProperties            PROP$   A       �:      Duration  �PROP          �
+:      EnabledPROP+   D       �:      FrontParamA~   �PROP$   D       �:      FrontParamB~   P     PROP!   E       �:      FrontSurface  P     PROP&   J       �:      FrontSurfaceInput  P     PROPe   �       �:   	   HistoryId  U & � &  & � &  & � & � & � &  & � & 9 &  & � � tttttttttttPROP*   C       �:   
+   LeftParamA~   �PROP#   C       �:   
+   LeftParamB~   P     PROP    D       �:      LeftSurface  P     PROP%   I       �:      LeftSurfaceInput  P     PROP          �:      Locked            PROP          �:      Massless            PROP$   A       �:      Material   # P     PROP,   R       �	:      MaterialVariantS
+ oized  P     PROP)   �       �:      Name
+   SpawnLocation �PationPROP          �
+:      NeutralPROP$   �       �:      PivotOffset   wP     PROP    D       �:      Reflectance  P     PROP+   D       �:      RightParamA~   �PROP$   D       �:      RightParamB~   P     PROP!   E       �:      RightSurface  P     PROP&   J       �:      RightSurfaceInput  P     PROP!   E       �:      RootPriority  P     PROP    �       �:      RotVelocity  wP     PROP)   v       �:   
+   SourceAssetId  @�PROP   =       �:      Tags  P     PROP%   B       �:   	   TeamColor  �������������PROP)   B       �:   	   TopParamA~   �PROP"   B       �:   	   TopParamB~   P     PROP   C       �:   
+   TopSurface  P     PROP$   H       �
+:      TopSurfaceInput  P     PROP!   E       �:      Transparency  P     PROPi   �       �:      UniqueId  �
+UUVVVVWVVWWW��Y��� ��768 �  � � �  � 9  � �ttttttttttttPROP   �       �:      Velocity  wP     PROP)   F       �:   
+   formFactorRaw  �PROP!   >       � :      shape  �PROP<   �       �:      size� �    # 	 _ �_ �% �           PROP"           �;      AttributesSerialize    PROP   "       �;   	   HistoryId  P     PROP          �;      LODX   PROP          �;      LODY   PROP          �;      MeshId    PROP          �;      MeshType    PROP          �;      Name   MeshPROP          �;      Offset            PROP          �;      Scale@  @  @  PROP           �;   
+   SourceAssetId       PROP          �;      Tags    PROP          �;   	   TextureId    PROP#   !       �;      UniqueId  ����ʴ�9�tPROP"           �;      VertexColor         PROP"           �<      AttributesSerialize    PROP   "       �<   	   HistoryId  P     PROP*   (       �<      Name   StarterCharacterScriptsPROP           �<   
+   SourceAssetId       PROP          �<      Tags    PROP#   !       �<      UniqueId H2 �ƍ�c���V�PROP"           �=      AttributesSerialize    PROP   "       �=   	   HistoryId  P     PROP          �=      Name
+   StarterGuiPROP!          �=      ResetPlayerGuiOnSpawnPROP           �=      ScreenOrientation   PROP          �
+=      ShowDevelopmentGuiPROP           �=   
+   SourceAssetId       PROP          �=      Tags    PROP#   !       �=      UniqueId H0w�ƍ�c���V�PROP           �=      VirtualCursorMode    PROP"           �>      AttributesSerialize    PROP   "       �>   	   HistoryId  P     PROP          �
+>      Name   StarterPackPROP           �>   
+   SourceAssetId       PROP          �>      Tags    PROP#   !       �>      UniqueId H0v�ƍ�c���V�PROP!          �?      AllowCustomAnimationsPROP"           �?      AttributesSerialize    PROP          �
+?      AutoJumpEnabled PROP$   "       �?      CameraMaxZoomDistance��  PROP$   "       �?      CameraMinZoomDistance��  PROP          �?   
+   CameraMode    PROP"           �?      CharacterJumpHeight    PROP!          �?      CharacterJumpPower��  PROP%   #       �?      CharacterMaxSlopeAngle    PROP!          �?      CharacterUseJumpPower PROP!          �?      CharacterWalkSpeed    PROP%   #       �?      DevCameraOcclusionMode    PROP,   *       �?      DevComputerCameraMovementMode    PROP&   $       �?      DevComputerMovementMode    PROP)   '       �?      DevTouchCameraMovementMode    PROP#   !       �?      DevTouchMovementMode    PROP!          �?      EnableDynamicHeads   PROP!          �?      EnableMouseLockOption PROP*   (       �?      GameSettingsAssetIDFace        PROP*   (       �?      GameSettingsAssetIDHead        PROP-   +       �?      GameSettingsAssetIDLeftArm        PROP-   +       �?      GameSettingsAssetIDLeftLeg        PROP+   )       �?      GameSettingsAssetIDPants        PROP.   ,       �?      GameSettingsAssetIDRightArm        PROP.   ,       �?      GameSettingsAssetIDRightLeg        PROP+   )       �?      GameSettingsAssetIDShirt        PROP.   ,       �?      GameSettingsAssetIDTeeShirt        PROP+   )       �?      GameSettingsAssetIDTorso        PROP!          �?      GameSettingsAvatar   PROP'   %       �?      GameSettingsR15Collision    PROP1   /       � ?      GameSettingsScaleRangeBodyType      �?PROP-   +       �?      GameSettingsScaleRangeHead33s?  �?PROP/   -       �?      GameSettingsScaleRangeHeightfff?ff�?PROP3   1       �"?       GameSettingsScaleRangeProportion      �?PROP.   ,       �?      GameSettingsScaleRangeWidth333?  �?PROP$   "       �?      HealthDisplayDistance    PROP   "       �?   	   HistoryId  P     PROP'   %       �?      HumanoidStateMachineMode    PROP#   !       �?      LoadCharacterAppearancePROP+   )       �?      LoadCharacterLayeredClothing   PROP           �?      Name
+   StarterPlayerPROP"           �?      NameDisplayDistance    PROP           �?   
+   SourceAssetId       PROP          �?      Tags    PROP#   !       �?      UniqueId H0u�ƍ�c���V�PROP          �?      UserEmotesEnabled PROP"           �@      AttributesSerialize    PROP   "       �@   	   HistoryId  P     PROP'   %       �@      Name   StarterPlayerScriptsPROP           �@   
+   SourceAssetId       PROP          �@      Tags    PROP#   !       �@      UniqueId H2�ƍ�c���V�PROP"           �A      AttributesSerialize    PROP   "       �A   	   HistoryId  P     PROP           �A      Name
+   InsertionHashPROP           �A   
+   SourceAssetId       PROP          �A      Tags    PROP#   !       �A      UniqueId H2�ƍ�c���V�PROP:   8       �)A      Value&   {79F4E561-8528-4BC4-9326-F107BE234E23}PROP"           �B      AttributesSerialize    PROP-   +       �B   !   EnableScriptCollabByDefaultOnLoad PROP   "       �B   	   HistoryId  P     PROP          �B      Name
+   StudioDataPROP           �B   
+   SourceAssetId       PROP          �B      Tags    PROP#   !       �B      UniqueId H0t�ƍ�c���V�PROP"           �C      AttributesSerialize    PROP   "       �C   	   HistoryId  P     PROP          �C      Name   TeamsPROP           �C   
+   SourceAssetId       PROP          �C      Tags    PROP#   !       �C      UniqueId H2�ƍ�c���V�PROP"           �D      AttributesSerialize    PROP   "       �D   	   HistoryId  P     PROP#   !       �D      Name   Teleport ServicePROP           �D   
+   SourceAssetId       PROP          �D      Tags    PROP#   !       �D      UniqueId H0}�ƍ�c���V�PROP           �E      AcquisitionMethod    PROP          �E      AnchoredPROP"           �E      AttributesSerialize    PROP          �E   
+   BackParamA~  PROP          �E   
+   BackParamB~   PROP          �	E      BackSurface    PROP          �E      BackSurfaceInput    PROP          �
+E      BottomParamA~  PROP          �
+E      BottomParamB~   PROP          �E   
+   BottomSurface   PROP!          �E      BottomSurfaceInput    PROP          �
+E      CFrame            PROP          �E   
+   CanCollidePROP          �E      CanQueryPROP          �E      CanTouchPROP          �E   
+   CastShadowPROP$   "       �E      CollisionGroup   DefaultPROP          �E      CollisionGroupId    PROP          �E      Color3uint8���PROP$   "       �E      CustomPhysicalProperties PROP          �E   
+   DecorationPROP          �	E      FrontParamA~  PROP          �	E      FrontParamB~   PROP          �
+E      FrontSurface    PROP           �E      FrontSurfaceInput    PROP   "       �E   	   HistoryId  P     PROP          �E   
+   LeftParamA~  PROP          �E   
+   LeftParamB~   PROP          �	E      LeftSurface    PROP          �E      LeftSurfaceInput    PROP          �E      LockedPROP          �E      Massless PROP          �E      Material   PROP_   `       �E      MaterialColors  �0o~>XYV����aI�˧��lcdf�������|_ypbKJJ��h�CPTT��v���j�@���������PROP&   &       �	E      MaterialVariantS
+ �ized    PROP          �	E      Name   TerrainPROP(   &       �E      PhysicsGrid               PROP#   !       �E      PivotOffset            PROP          �	E      Reflectance    PROP          �	E      RightParamA~  PROP          �	E      RightParamB~   PROP          �
+E      RightSurface    PROP           �E      RightSurfaceInput    PROP          �
+E      RootPriority    PROP"           �E      RotVelocity            PROP          �
+E      ShorelinesUpgraded PROP          �
+E   
+   SmoothGrid   PROP           �E      SmoothVoxelsUpgraded PROP           �E   
+   SourceAssetId       PROP          �E      Tags    PROP          �E   	   TopParamA~  PROP          �E   	   TopParamB~   PROP          �E   
+   TopSurface   PROP          �
+E      TopSurfaceInput    PROP          �
+E      Transparency    PROP#   !       �E      UniqueId H2�ƍ�c���V�PROP          �E      Velocity            PROP!          �E   
+   WaterColorz���}QQR}qqrPROP          �E      WaterReflectance   PROP           �E      WaterTransparency}334PROP          �E   
+   WaterWaveSize|334PROP          �E      WaterWaveSpeed�@  PROP          �
+E      size��  ��  ��  PROP"           �F      AttributesSerialize    PROP          �F      AutoRunsPROP          �	F      Description    PROP           �F      ExecuteWithStudioRun PROP   "       �F   	   HistoryId  P     PROP"           �F      Is30FpsThrottleEnabledPROP+   )       �F      IsPhysicsEnvironmentalThrottledPROP          �	F      IsSleepAllowedPROP          �
+F      Name   TestServicePROP          �
+F      NumberOfPlayers    PROP%   #       �F      SimulateSecondsLag        PROP           �F   
+   SourceAssetId       PROP          �F      Tags    PROP          �	F      Timeout      $@PROP#   !       �F      UniqueId H2�ƍ�c���V�PROP          �G      ActivePROP          �
+G      AnchorPoint
+        PROP"           �G      AttributesSerialize    PROP          �G      AutoLocalizePROP          �G   
+   AutomaticSize    PROP'   %       �G      BackgroundColor3         PROP%   #       �G      BackgroundTransparency   PROP#   !       �G      BorderColor3{���|QQR|���PROP          �G   
+   BorderMode    PROP          �
+G      BorderSizePixel   PROP          �G      ClearTextOnFocusPROP          �G      ClipsDescendants PROP          �G   	   Draggable PROPM   K       �<G      FontFace /   rbxasset://fonts/families/ComicNeueAngular.json�     PROP   "       �G   	   HistoryId  P     PROP          �	G      LayoutOrder    PROP          �G   
+   LineHeight   PROP"           �G      MaxVisibleGraphemes   PROP          �G   	   MultiLine PROP          �	G      Name   TextBoxPROP           �G      NextSelectionDown   PROP           �G      NextSelectionLeft   PROP!          �G      NextSelectionRight   PROP          �
+G      NextSelectionUp   PROP(   &       �G      PlaceholderColor3~fff~fff~fffPROP&   )       �
+G      PlaceholderText
+ �ID here!PROP#   !       �G      Position    }F��        PROP          �G      RichText PROP$   "       �G      RootLocalizationTable   PROP          �G      Rotation    PROP          �G   
+   SelectablePROP$   "       �G      SelectionBehaviorDown    PROP$   "       �G      SelectionBehaviorLeft    PROP%   #       �G      SelectionBehaviorRight    PROP"           �G      SelectionBehaviorUp    PROP          �	G      SelectionGroup PROP#   !       �G      SelectionImageObject   PROP          �G      SelectionOrder    PROP          �
+G      ShowNativeInputPROP          �G      Size   }`�0        PROP          �G      SizeConstraint    PROP           �G   
+   SourceAssetId       PROP          �G      Tags    PROP          �G      Text    PROP!          �G   
+   TextColor3            PROP          �G      TextEditablePROP          �G   
+   TextScaled PROP          �G      TextSize��  PROP'   %       �G      TextStrokeColor3            PROP%   #       �G      TextStrokeTransparency   PROP          �G      TextTransparency    PROP          �
+G      TextTruncate    PROP          �G      TextWrapped PROP          �G      TextXAlignment   PROP          �G      TextYAlignment   PROP#   !       �G      UniqueId  ����ʴ�9�tPROP          �G      VisiblePROP          �G      ZIndex   PROP          �H      ActivePROP'   D       �	H      AnchorPoint
+~~~    P     PROP'   4       �H      AttributesSerialize  P     PROP           �H      AutoButtonColorPROP          �H      AutoLocalizePROP!   .       �H   
+   AutomaticSize  P     PROPL   a       �H      BackgroundColor3}}}~~U   0U V   ~   �  ~~   UU  P  VV PROP/   7       �H      BackgroundTransparency     P     PROP=   ]       �H      BorderColor3{ � � | Q R  '|� `������PROP   +       �H   
+   BorderMode  P     PROP#   0       �
+H      BorderSizePixel  P    PROP!          �H      ClipsDescendants      PROP          �	H   	   Draggable      PROPo   b      �.H      FontFace %   rbxasset://fonts/families/Ubuntu.json�  0 �,� 
+�SourceSansPro� *3 	* �-Regular.ttfPROPh   r       �H   	   HistoryId  �+JJJJ  nnnn    ����  ssss  ����  				  ����  ''''   �����  ����  ���� PROP   ,       �H      LayoutOrder  P     PROP"   +       �H   
+   LineHeight   P     PROP(   4       �H      MaxVisibleGraphemes  `PROP          �H      Modal      PROPG   R       �+H      Name	   Reshuffle   Alone   Friends   DarkMode �TemplatePROP&   2       �H      NextSelectionDown  `     PROP&   2       �H      NextSelectionLeft  `     PROP'   3       �
+H      NextSelectionRight  `     PROP$   0       �
+H      NextSelectionUp  `     PROPL   q       �2H      Position}}}} ���s\ ��g� ��"8T |~~~~ n	��[ �+�]� �62�Z  P     PROP          �H      RichText      PROP*   6       �H      RootLocalizationTable  `     PROP   )       �H      Rotation  P     PROP          �
+H   
+   SelectablePROP          �H      Selected      PROP)   6       �H      SelectionBehaviorDown  P     PROP)   6       �H      SelectionBehaviorLeft  P     PROP*   7       �H      SelectionBehaviorRight  P     PROP'   4       �H      SelectionBehaviorUp  P     PROP          �H      SelectionGroup      PROP)   5       �H      SelectionImageObject  `     PROP"   /       �	H      SelectionOrder  P     PROPI   m       �/H      Size~~~}}~���DD�zz�552��X��
+|||z|yOAO����ZL��
+���  P     PROP"   /       �	H      SizeConstraint  P     PROP#   F       �H   
+   SourceAssetId  `PROP   &       � H      Style  P     PROP   %       �H      Tags  P     PROP\   `       �H      Text   Reshuffle 🔀
+   Go Alon 2�� �	with friends 👥   ✖ ��   ButtonPROP   [       �H   
+   TextColor3  /P     PROP          �
+H   
+   TextScaled PROP'   )       �H      TextSize� � �            PROP%   a       �H      TextStrokeColor3  /P     PROP.   7       �H      TextStrokeTransparency   P     PROP$   1       �H      TextTransparency  P     PROP    -       �H      TextTruncate  P     PROP          �H      TextWrapped PROP#   /       �	H      TextXAlignment  `PROP#   /       �	H      TextYAlignment  `PROPj   q       �H      UniqueId  �JKK{��n�ۀ�o �3������sss������			���������'''������999��������˴��tttPROP          �H      Visible PROP   '       �H      ZIndex  `PROP          �I      Active  P     PROP<   �       �I      AnchorPoint
+  }  Q   �  �  #P     PROP(   X       �I      AttributesSerialize  #P     PROP    $       �I      AutoLocalize PPROP"   R       �I   
+   AutomaticSize  #P     PROP5   �       �I      BackgroundColor3   
+; ; < %P     PROP9   [       �I      BackgroundTransparency   0    	  P     PROPC   �       �I      BorderColor3{ � 
+� | Q 
+R 
+; /|� 
+� P�����PROP   O       �I   
+   BorderMode  #P     PROP)   T       �
+I      BorderSizePixel  / `PROP$   (       �I      ClipsDescendants  P     PROP   !       �I   	   Draggable  P     PROP�   I      �/I      FontFace &   rbxasset://fonts/families/DenkOne.json�  (1 
+�GothamSSm3 d Q�  ,� 
+�SourceSansPro� OX +3 	* �-Semibold.ttf�  ,1 � O� *� pRegular� a ��Pr.ttfPROP�         �I   	   HistoryId  0H H 0H B @ � � 0�  @   0  @ � � � 0s s 0s � @ � � 0� � @ 	 	 0	 i @ � � 0� . @ ' ' 0' o @   0 � - / @ � � 0� Q @ � � 0� � �  � �� ��� 66666PROP    P       �I      LayoutOrder  #P     PROP#   O       �I   
+   LineHeight   P     PROP,   X       �I      MaxVisibleGraphemes   PPROP�   �       �I      Name	   TextLabel
+ PPlace  �leport   Description( 5 a   Va<  < 	& 
+
+ h 
+ �Id
+   UniverseID� �Accepted   CreatorPROP*   V       �I      NextSelectionDown  - P     PROP*   V       �I      NextSelectionLeft  - P     PROP+   W       �
+I      NextSelectionRight  - P     PROP(   T       �
+I      NextSelectionUp  - P     PROP�         �I      Position z}zv{|  s���z��v � �؊{	Di s���d �-z}|~v}~|z|}~~~�� ��\"M�um!��� `Г+$�BX��@(�]Jti�J�C  YP     PROP"           �I      RichText            PROP.   Z       �I      RootLocalizationTable  - P     PROP   M       �I      Rotation  #P     PROP   "       �I   
+   Selectable  P     PROP*   Z       �I      SelectionBehaviorDown  #P     PROP*   Z       �I      SelectionBehaviorLeft  #P     PROP+   [       �I      SelectionBehaviorRight  #P     PROP(   X       �I      SelectionBehaviorUp  #P     PROP"   &       �	I      SelectionGroup  P     PROP-   Y       �I      SelectionImageObject  - P     PROP#   S       �	I      SelectionOrder  #P     PROP|   �       �I      Size}}�~} � �ǘ �*,  s� ��z�1 � P�P@p�� �{{}}||{}{ �+��Q *� �bԂn gb�� ��.` ��� C  YP     PROP#   S       �	I      SizeConstraint  #P     PROP&   �       �I   
+   SourceAssetId  U PPROP   I       �I      Tags  #P     PROP�         �0I      Text   dani_lionn's Place Randomizer   Looking for p  A...B �leporting...       Set �s   1    NumberT �ge (1818-9  )K �oggle Dark Mode   Input a� � ID   Debug   � eName:	 �ID:   Univers   �Accepted:� �Creator:PROPZ   �       �I   
+   TextColor3    z  �  � G  ~ A   �   � < �   ��         PROP   "       �I   
+   TextScaled PPROP%   M       �I      TextSize� �   P     PROP0   �       �I      TextStrokeColor3    $< [P     PROP?   [       �I      TextStrokeTransparency ~   f   P     PROP%   U       �I      TextTransparency  #P     PROP!   Q       �I      TextTruncate  #P     PROP   #       �I      TextWrapped PPROP'   S       �	I      TextXAlignment   PPROP'   S       �	I      TextYAlignment   PPROP�         �I      UniqueId  
+�HHY���z�BBCDFM��+���pR'�&g?  � !�� �sss����� ������� �			}}}}��i �������ʴ�. �'''����o ����û�� ����mmmm99/ ��������Q ����NNNN�ˏ � ���jjjjtt666666PROP!          �I      Visible  PROP&   K       �I      ZIndex  � FPROP"           �J      AttributesSerialize    PROP          �J      Color3            PROP          �J      Face   PROP   "       �J   	   HistoryId  P     PROP          �	J      Name   TexturePROP          �
+J      OffsetStudsU    PROP          �
+J      OffsetStudsV    PROP           �J   
+   SourceAssetId       PROP          �J   
+   StudsPerTileU�   PROP          �J   
+   StudsPerTileV�   PROP          �J      Tags    PROP-   +       �J      Texture   rbxassetid://6372755229PROP          �
+J      Transparency~���PROP#   !       �J      UniqueId H2�ƍ�c���V�PROP          �J      ZIndex   PROP"           �K      AttributesSerialize    PROP   "       �K   	   HistoryId  P     PROP          �
+K      Name   InstancePROP           �K   
+   SourceAssetId       PROP          �K      Tags    PROP#   !       �K      UniqueId H0b�ƍ�c���V�PROP"           �L      AttributesSerialize    PROP          �L      CanBeDroppedPROP          �L      EnabledPROP          �L      Grip            PROP   "       �L   	   HistoryId  P     PROP           �L      ManualActivationOnly PROP          �L      Name   ToolPROP          �	L      RequiresHandlePROP           �L   
+   SourceAssetId       PROP          �L      Tags    PROP          �L   	   TextureId    PROP          �L      ToolTip    PROP#   !       �L      UniqueId  U���ʴ�9�tPROP"           �M      AttributesSerialize    PROP   "       �M   	   HistoryId  P     PROP$   "       �M      Name   TouchInputServicePROP           �M   
+   SourceAssetId       PROP          �M      Tags    PROP#   !       �M      UniqueId H0��ƍ�c���V�PROP"           �N      AttributesSerialize    PROP   "       �N   	   HistoryId  P     PROP          �N      Name   TweenServicePROP           �N   
+   SourceAssetId       PROP          �N      Tags    PROP#   !       �N      UniqueId H0j�ƍ�c���V�PROP          �	O      AspectRatio   PROP          �O   
+   AspectType    PROP"           �O      AttributesSerialize    PROP          �
+O      DominantAxis    PROP   "       �O   	   HistoryId  P     PROP*   (       �O      Name   UIAspectRatioConstraintPROP           �O   
+   SourceAssetId       PROP          �O      Tags    PROP#   !       �O      UniqueId  ̬Ӝ}ʩ�m�NjPROP(   T       �P      AttributesSerialize  P     PROPD   �       �P      CornerRadius|~  {{ @~ 3   ��   4 1 ��  !P    PROPz   �       �P   	   HistoryId  Fa aa' F~ ~~ F  F� �� F  F� �� F� �� F� �� F  F� �� F9 99 F  F� �� `t tt  PROP$   �       �
+P      Name   UICorner �PornerPROP&   �       �P   
+   SourceAssetId  N PPROP   E       �P      Tags  P     PROPu   �       �P      UniqueId  �aaa]]]]az{���D{~}(&'�|o�5��� (� ( (�� (�� (i� (. (o� (�9 (/ (Q� $�t Ptttt6PROP"           �Q      AttributesSerialize    PROP   "       �Q   	   HistoryId  P     PROP          �Q      Name	   VRServicePROP           �Q   
+   SourceAssetId       PROP          �Q      Tags    PROP#   !       �Q      UniqueId H0��ƍ�c���V�PROP"           �R      AttributesSerialize    PROP   "       �R   	   HistoryId  P     PROP&   $       �R      Name   VirtualInputManagerPROP           �R   
+   SourceAssetId       PROP          �R      Tags    PROP#   !       �R      UniqueId H2�ƍ�c���V�PROP(   |       �S      AttributesSerialize  GP     PROPN   C      � S      C0      �  ~~~�~ 	  ?~  "     
+  �P     PROP�  �      �S      C1  �4�&  �� �  �?4��     %  5 ?!   %  J 5 	  B "��= 	  %  � &# % � �  R 
+� | � �  %   � � w % : J  5 ��  �  � 0 Z 
+r_ o %   J 5 	 � % ��� ��  �% R  % : o   Z  J � J   J �~~}~~}�}~�	 �~~~~}~�  ��   � �     0 � � �  @ �@ ��� ���  0 a   llmnl9 �mmnollmmllm A   �   �      0O           n m] 1 lm `jjjk k ` 	    	 �     PROP   (       �S      Enabled PPROP   �      �S   	   HistoryId  �hP     PROP   �       �S      Name	 OWeld �P WeldPROP2   n       � S      Part0  .B �	 
+����p�LPROP5   n       � S      Part1  %9 	 �	����>�� JPROP&   �       �S   
+   SourceAssetId  � PPROP   m       �S      Tags  GP     PROP}   �      �S      UniqueId  � � � �
+)16����GK������$(.������ �  � � �  � 9  � t PtttttPROP           �T      AllowThirdPartySales PROP(   &       �T      AnimationWeightedBlendFix    PROP"           �T      AttributesSerialize    PROP'   %       �T      ClientAnimatorThrottling    PROP1   /       � T      CollisionGroupData    ����DefaultPROP          �T   
+   CurrentCamera  �PROP&   $       �T      DistributedGameTime        PROP          �
+T      ExplicitAutoJointsPROP'   %       �T      FallenPartsDestroyHeight�� PROP!          �T   
+   GlobalWind            PROP          �T      Gravity��ffPROP   "       �T   	   HistoryId  P     PROP5   3       �$T   &   HumanoidOnlySetCollisionsOnStateChange    PROP&   $       �T      InterpolationThrottling    PROP          �T   
+   LevelOfDetail    PROP*   (       �T      MeshPartHeadsAndAccessories    PROP'   %       �T      ModelMeshCFrame            PROP          �T   
+   ModelMeshData    PROP$   "       �T   
+   ModelMeshSize            PROP!          �T      ModelStreamingMode    PROP          �T      Name	   WorkspacePROP          �T      NeedsPivotMigration PROP$   "       �T      PhysicsSteppingMethod    PROP          �	T      PrimaryPart   PROP'   %       �T      RejectCharacterDeletions    PROP.   ,       �T      ReplicateInstanceDestroySetting    PROP          �	T      Retargeting    PROP          �	T      ScaleFactor   PROP          �T      SignalBehavior    PROP           �T   
+   SourceAssetId       PROP           �T      StreamOutBehavior    PROP          �T      StreamingEnabled PROP%   #       �T      StreamingIntegrityMode    PROP!          �T      StreamingMinRadius   �PROP$   "       �T      StreamingTargetRadius   PROP          �T      Tags    PROP          �T      TerrainWeldsFixedPROP%   #       �T      TouchesUseCollisionGroups PROP#   !       �T      UniqueId H��ƍ�c���V�PROP$   '       �T      WorldPivotData  P   PRNT�
+  =9      O '  ������������������/����o  �./
+
+C . L�
+ �
+/4
+ a   # D5 ;     24 X = 0" a  
+ 1T    & S'.#  p A  f  �  0  � B
+u �  � R �   = �  1KND a  � � � � �  � ) p  �  "  � 5 En  H+8 
+
+  ] �  � - � �  m f38/ 3 E y �  
+  3  H$�P/2|  �  7 � S �  > ' *� A    !
+�     � D Y    B � ^1).Q�   �  $   � %2; )  ��  P	6 � �  	   4  z  F   �  2�  �    7 ��E " � j 0	� . ^     b � �  P! {  � I m z   / l & C #	n  �p�  �  � � u 3  v �  � \  �   " �  F p �     �� # G�   �  �  �  l � 4  � K � #     6   
+ � �  � t - f   �  ? � ��   � {  � W h ��  ? a W      �C 1   3 #  � 3 �7� �  % +  J  * ) ( 0o�  J 8 < : � � h/  R �' e : � i/��A��u � �   P?B  	 P    	�  c ;|A�  2+.I � P
+T % 7
+
+ @	u� �����
+  G    � �Q  " �    ���������������O �   !      "   
+    3 $   #  "   O } 
+  {  5 
+           #    	 : 
+a  �     
+              9  %  /    I      
+    !	 7      	  0 '    b        �    
+    %  !   ,   )   W 	   0   @ YC               +       ) u  g � ~   ��� 
+  6 - :  0     :;
+    ' � � �   ( ��	    <<     7     
+  � � 	  � & 
+       �
+ 
+ 3  k !     
+ J    R d      X   " �� � 5
+  �� ( &       %  
+      J   �    =      = ; � )    � �  � @_ �1  /   ,
+
+�
+ � ?T 	n   !
+k       X���   $  #,+ 
+@  ?H GNMR   Q\[ b  aj  irqv  u~ } ��� �� �� �� ��  �� � ��  �   �������� ��� �   ��  ����  ��  �      " !('438  7@ ?FE L KRQV  U^   ]h gn   mxw|  {�� �� �����   � �   �� � ��� ���� � � �� �� ���� ��   ��� ��� �y �*  T SZ   Y fe l   kv u|{�    �  ������  � � �� �� ������ �  � �� �   ��   ��Q n�*   "  ! ,   +� $# *  )2  1:9>=  F   EP OV U\  [d  c p��
+   �t #. - m � � �� �  �� ɀ ���  �   � �� ��   �   �
+   
+� � �* )   >  =FEJ  I PY ba ��mrqvuz   y���  �  �ї � �� ��   � �  ��  ��  �� �������   ��� �  �    z� 
+ 	  � �#*)# TS  ��af el  ktsxw|{�   �� &   %� � � ��  �   q   �� ـ� � �   
+  &  %.-216 5< ; D  CL   K   �d c l kr q  |  { ���E �       �  e 0)65E�
+=D CJINMRQVUZ Y`  _hglkp  o EP   ��2 ! �E E� �� � �� ��  �  ��  �� ��   ��  ��  ���  &   � 0%*)� 87<;@   ? LKP   O \ [ d   cn- m� 1  y��� � �   �E�  �   ��  �� ��ǀ �E� @ � �H��     (',+0Z /� ?��- ER QX   Wbaf   epot  s  �   �  � � �� �� ��  ��� �   �� ��D�� ��   � � �� ��   � � �� � �Q   %. C-: 9� E ��j   it szy � �P ����4 �����   ��  ���� � ��  � �C ���E� �   � �  ��  (' . -4  3 � ?HG N  MEYE� itsx  w ���  �� � � � �� ��� �  ��  ��׀ �   ��  ��  ���  
+	� ) 0 $ � #0 /65 < ;D j#�    "!&%* )0 /6  5��CH   GR  Q �  h  gpo� �� � �  � � � ����   �A���m " �1    ��� ��  ���� ����������� �& % 6
+	� ! � 
+  @?DCH��  G^]baf 0 ex:  @	u��	�   � -
+ !��  ��  �  ; �    : 9        END     	       </roblox>
