@@ -3,58 +3,44 @@
     DaniLionn, 2023
 -->
 <html>
-
-<head>
+  <head>
     <title>Dani's Bot Website</title>
-
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
     <!--Main Text-->
-
     <h1>Dani's Bot Website</h1>
     <p>Not much here, mostly using this to host files that my discord bots can post.</p>
-    <p>Maybe I'll do something with this in the future.</p> 
+    <p>Maybe I'll do something with this in the future.</p>
     <!--<p>DaniBot is a Discord bot I made, don't know if i'll release her publicly though.</p>-->
-
-</head>
-
-<body class="customCursor">
-    <!--Add a button with a counter--> 
+  </head>
+  <body class="customCursor">
+    <!--Add a button with a counter-->
     <p>Here's a button you can click, it makes a number go up.</p>
+    <script type="text/javascript">
+      var clicks = 0;
 
-     <script type="text/javascript">
-
-        var clicks = 0;
-
-        function onClick() {
-            clicks += 1;
-            document.getElementById("clicks").innerHTML = clicks;
-        };
-
-        </script>
-
-<div class="container">
-    <div class="center">
+      function onClick() {
+        clicks += 1;
+        document.getElementById("clicks").innerHTML = clicks;
+      };
+    </script>
+    <div class="container">
+      <div class="center">
         <button type="button" class="customCursorHover" onClick="onClick()">Click me</button>
+      </div>
     </div>
-</div>
-
-    <p>Clicks: <a id="clicks">0</a></p>
+    <p>Clicks: <a id="clicks">0</a>
+    </p>
     <!--Add a fact about this file's size-->
     <p class="size">Fun fact: The size of this HTML file is 2.1 KB</p>
-</body>
-
-<footer>
-    <!--Footer--> 
+  </body>
+  <footer>
+    <!--Footer-->
     <hr class="dotted">
-    <h4><a href="https://github.com/DaniLionn" class="customCursorHover" >DaniLionn, 2023</a></h4>
-
-    <div class="tenor-gif-embed" data-postid="144109959456503499" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ghost-and-pals-mariyam-plush-qualia-automata-tamari-mariyam-gif-144109959456503499">Ghost And Pals Mariyam Plush Sticker</a>from <a href="https://tenor.com/search/ghost+and+pals-stickers">Ghost And Pals Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-    
-    <img src="duck.png" alt="picture of a duck close up to the camera" width="150" height="150" align="right"> 
-
-    <button class="customCursorHoverHidden" onclick="window.location.href='assets/other-pages/baby/baby.htm'">
-
-      </button>
-</footer>
+    <h4>
+      <a href="https://github.com/DaniLionn" class="customCursorHover">DaniLionn, 2023</a>
+    </h4>
+    <img src="duck.png" alt="picture of a duck close up to the camera" width="150" height="150" align="right">
+    <button class="customCursorHoverHidden" onclick="window.location.href='assets/other-pages/baby/baby.htm'"></button>
+  </footer>
 </html>
