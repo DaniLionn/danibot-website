@@ -40,12 +40,12 @@ body {
     text-align: center;
   }
 
-  button.hidden {
-    background: transparent;
+button.customCursorHoverHidden{
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=15605),auto;
+        background: transparent;
     border: none !important;
     font-size:0;
-  }
-
+}
 
   hr.dotted {
     border-top: 3px dotted #1a1919;
