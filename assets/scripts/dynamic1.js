@@ -33,7 +33,7 @@ const file = new File([parse], "temp.html", {
   });
   
 let size = prettyBytes(file.size)
-console.log("size")
+console.log(size)
 
 let visits
 
