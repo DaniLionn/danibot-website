@@ -1,6 +1,6 @@
 let parse
 
-fetch('../../index.html').then(function(response) {
+fetch('https://danilionn.github.io/danis-bot-website/').then(function(response) {
     /* when the page is loaded convert it to plain text */
     return response.text()
 }).then(function(html) {
@@ -40,6 +40,7 @@ fetch('https://featherapi.dani-lionn.repl.co/UpdateVisits')
 
 fetch('https://featherapi.dani-lionn.repl.co/GetVisits').then(function(res) {
   visits = res.text()
+  console.log(visits)
 })
 
 document.getElementsByClassName("size").innerHTML = `The size of this HTML file is ${size}!`;
