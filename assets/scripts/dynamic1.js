@@ -40,7 +40,7 @@ let visits
 fetch('https://featherapi.dani-lionn.repl.co/UpdateVisits')
 
 fetch('https://featherapi.dani-lionn.repl.co/GetVisits').then(function(res) {
-  visits = res.text()
+  visits = res.json.num
   console.log(visits)
 })
 
