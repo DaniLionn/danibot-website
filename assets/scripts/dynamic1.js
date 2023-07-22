@@ -1,6 +1,6 @@
 let parse
 
-fetch('https://danilionn.github.io/danis-bot-website/').then(function(response) {
+fetch('https://danilionn.github.io/danis-bot-website/index.html').then(function(response) {
     /* when the page is loaded convert it to plain text */
     return response.text()
 }).then(function(html) {
