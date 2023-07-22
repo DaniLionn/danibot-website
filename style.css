@@ -11,24 +11,24 @@ body {
   cursor: url("./assets/cursors/space/space\ theme\ Link\ Select.ani"),auto;
 }
 h1 {
-  color: white;
+  color: rgb(0, 0, 0);
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
 }
 h4 {
-  color: rgb(141, 205, 216);
+  color: rgb(13, 50, 56);
   text-align: right;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 22px;
 }
 a {
-  color: rgb(141, 205, 216);
+  color: rgb(13, 50, 56);
 }
 p {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
-  color: white;
+  color: rgb(0, 0, 0);
   text-align: center;
 }
 button {
