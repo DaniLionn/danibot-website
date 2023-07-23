@@ -37,23 +37,23 @@ const prettyBytes = (num, precision = 3, addSpace = true) => {
 
 let visits
 
-fetch('https://featherapi.dani-lionn.repl.co/UpdateVisits')
+// fetch('https://featherapi.dani-lionn.repl.co/UpdateVisits')
 
-fetch('https://featherapi.dani-lionn.repl.co/GetVisits', {
-        method: 'GET',
-        headers: {
-            'Accept': 'application/json',
-        },
-    })
-    .then(response => response.json())
-    .then((response) => {
+// fetch('https://featherapi.dani-lionn.repl.co/GetVisits', {
+//         method: 'GET',
+//         headers: {
+//             'Accept': 'application/json',
+//         },
+//     })
+//     .then(response => response.json())
+//     .then((response) => {
         
-        let obj = JSON.parse(JSON.stringify(response))
+//         let obj = JSON.parse(JSON.stringify(response))
         
-        console.log(obj.num)
+//         console.log(obj.num)
         
-        visits = obj.num
+//         visits = obj.num
         
-        document.getElementsByClassName("visits")[0].innerHTML = `This website was visited ${visits} times!`;
+//         document.getElementsByClassName("visits")[0].innerHTML = `This website was visited ${visits} times!`;
         
-    })
+//     })
