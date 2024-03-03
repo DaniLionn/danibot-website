@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Highway Gothic";
+  src: url("./assets/fonts/HighwayGothic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.centre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.text {
+  font-family: "Highway Gothic";
+  color: oldlace;
+  -webkit-text-stroke: 1px grey;
+  text-align: center;
+}
+
+.buttonBase {
+  font-size: 30px;
+  -webkit-text-stroke: 0%;
+  cursor: pointer;
+}
+
+.playButton {
+  background: rgb(50, 255, 36);
+  background: linear-gradient(
+    180deg,
+    rgb(50, 255, 36) 0%,
+    rgb(17, 146, 0) 100%
+  );
+  border: 0px;
+}
+
+.regButton {
+  background-image: url("assets/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border: 3px;
+  -webkit-text-stroke: 0px;
+  color: black;
+}
+
+.mainText {
+  font-size: 25px;
+}
+
+.box {
+  background-color: white;
+  width: 75%;
+  height: 100vh;
+}
+
+.rcorner {
+  border-radius: 25px;
+}
+
+form {
+  padding-top: 5px;
+}
+
+html {
+  background-image: url("assets/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
