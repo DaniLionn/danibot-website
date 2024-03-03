@@ -13,6 +13,12 @@
   width: 50%;
 }
 
+.mainText {
+  font-family: "Highway Gothic";
+  color: black;
+  text-align: center;
+}
+
 .text {
   font-family: "Highway Gothic";
   color: oldlace;
