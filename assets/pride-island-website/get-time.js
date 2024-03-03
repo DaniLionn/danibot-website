@@ -1,13 +1,11 @@
-fetch("https://games.roblox.com/v1/games?universeIds=3749278087")
-  .then((response) => {
-    if (!response.ok) {
-      throw new Error("Network response was not ok");
-    }
-    console.log(response.json());
-  })
+fetch("https://play-pride-island.glitch.me/returnLastUpdated", {
+  method: "GET",
+})
+  .then((response) => response.json())
   .then((data) => {
-    console.log(data);
-  })
-  .catch((error) => {
-    console.error("Fetch error:", error);
+    const element = document.getElementById("date");
+    const date = new Date(data.time);
+    const localTime = date.toLocaleString();
+
+    element.textContent = "Last updated: " + localTime;
   });
