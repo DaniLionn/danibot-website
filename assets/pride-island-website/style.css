@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Highway Gothic";
-  src: url("https://danilionn.github.io/danis-bot-website/assets/pride-island-website/HighwayGothic.woff2") format("woff2");
+  src: url("https://cdn.glitch.global/8eee9802-6013-45c6-a6a3-586a4532ed6e/HighwayGothic.woff2?v=1714352134894") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -28,16 +28,14 @@
 
 .playButton {
   background: rgb(50, 255, 36);
-  background: linear-gradient(
-    180deg,
-    rgb(50, 255, 36) 0%,
-    rgb(17, 146, 0) 100%
-  );
+  background: linear-gradient(180deg,
+      rgb(50, 255, 36) 0%,
+      rgb(17, 146, 0) 100%);
   border: 0px;
 }
 
 .regButton {
-  background-image: url(https://danilionn.github.io/danis-bot-website/assets/pride-island-website/background.jpg);
+  background-image: url(https://cdn.glitch.global/8eee9802-6013-45c6-a6a3-586a4532ed6e/background.jpg?v=1714352133530);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   border: 3px;
@@ -64,7 +62,7 @@ form {
 }
 
 .mainBg {
-  background-image: url(https://danilionn.github.io/danis-bot-website/assets/pride-island-website/background.jpg);
+  background-image: url(https://cdn.glitch.global/8eee9802-6013-45c6-a6a3-586a4532ed6e/background.jpg?v=1714352133530);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
