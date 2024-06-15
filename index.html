@@ -22,15 +22,25 @@
     <p>Here's a button you can click, it makes a number go up.</p>
     <script type="text/javascript">
       var clicks = 0;
+      let alertLock = false
 
       function onClick() {
         clicks += 1;
-
-        if (clicks === 1000) {
-          alert("why.")
-        }
-
         document.getElementById("clicks").innerHTML = clicks;
+
+        if (clicks % 1000 === 1 && clicks != 1) {
+          alertLock = true
+          let times = Math.floor((clicks - 1) / 1000)
+
+          let message = "why"
+
+          if (times > 1) {
+            message += " x" + times
+          }
+
+          alert(message)
+
+        }
       };
     </script>
     <div class="container">
