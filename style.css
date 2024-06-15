@@ -1,57 +1,87 @@
 body {
   background-color: rgb(29, 29, 29);
   background-image: url("./assets/images/360_F_360193189_tWKC3HPP8V9u7zjzaPc41nvdMV0RP0y8.jpg");
- /*background-image: linear-gradient(purple, rgb(38, 16, 134), blue);
+  /*background-image: linear-gradient(purple, rgb(38, 16, 134), blue);
  */
 }
-.customCursor{
-  cursor: url("./assets/cursors/space/Normal\ Select\ Space.ani"),auto;
+
+.customCursor {
+  cursor: url("./assets/cursors/space/Normal\ Select\ Space.ani"), auto;
 }
-.customCursorHover{
-  cursor: url("./assets/cursors/space/space\ theme\ Link\ Select.ani"),auto;
+
+.customCursorHover {
+  cursor: url("./assets/cursors/space/space\ theme\ Link\ Select.ani"), auto;
 }
+
 h1 {
-  color: rgb(0, 0, 0);
+  color: black;
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
 }
+
 h4 {
   color: rgb(13, 50, 56);
   text-align: right;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 22px;
 }
+
 a {
-  color: rgb(13, 50, 56);
+  color: rgb(255, 255, 255);
 }
+
 p {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
-  color: rgb(0, 0, 0);
+  color: black;
   text-align: center;
 }
+
+.funDiv {
+  background-color: #383838a1;
+  border-radius: 25px;
+  width: fit-content;
+  padding: 10px;
+  margin-left: 25%
+}
+
+
+.funDiv2 {
+  background-color: #383838a1;
+  border-radius: 25px;
+  width: fit-content;
+  padding: 10px;
+  margin-left: 85%;
+
+}
+
 button {
   text-align: center;
 }
-.customCursorHoverHidden{
-  cursor: url("./assets/cursors/space/space\ theme\ Link\ Select.ani"),auto;
+
+.customCursorHoverHidden {
+  cursor: url("./assets/cursors/space/space\ theme\ Link\ Select.ani"), auto;
   background: transparent;
   border: none;
-  font-size:0;
+  font: size 1px;
+  ;
 }
+
 .dotted {
-  border: none 
- /*border-top: 3px dotted #1a1919;
+  border: none
+    /*border-top: 3px dotted #1a1919;
  */
 }
+
 .container {
   height: 10px;
   position: relative;
- /*border: 3px solid rgb(29, 29, 29);
+  /*border: 3px solid rgb(29, 29, 29);
  */
-  border: none 
+  border: none
 }
+
 .center {
   margin: 0;
   position: absolute;
@@ -59,5 +89,5 @@ button {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  border: none 
+  border: none
 }
